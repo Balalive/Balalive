@@ -4,96 +4,23 @@
             "adsimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
             "adslink":"https://google.com",
             "league": "ClubFriendly",
-            "date": "August 7",
-            "time": "1 - 0",
+            "date": "Man U TV",
+            "time": "Live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1946_small.png",
-            "teams" : "Barcelona 6 - 0 Pumas",
-             "hteam" : "Barcelona",
-            "ateam" : "Pumas",
+            "teams" : "0",
+             "hteam" : "Man U Tv",
+            "ateam" : "Man U Tv",
             "hllink": [
 {
            "quality":"HD",
-           "link":"https://jq9sucdqmfliv.vcdn.cloud/may9/may9@456.m3u8"
+           "link":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
 },
 {
  
        "quality":"360",
-         "link":"https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/chunklist.m3u8"
+         "link":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
 }
 ]
-},
-{
-                 "adsimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-                 "adslink":"https://google.com",
-                 "league": "PremierLeague",
-                 "date": "August 7",
-                 "time": "0 - 2",
-                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
-                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-                 "teams" : "West Ham vs Man City",
-                  "hteam" : "West Ham",
-                 "ateam" : "Man City",
-                 "hllink": [
-          {
-                "quality":"720",
-                "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/7/42/230649/720p.m3u8"
-          },
-         {
- 
-              "quality":"360",
-              "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/7/42/230649/360p.m3u8"
-          }
-]
-     },
-
-
-{
-                 "adsimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-                 "adslink":"https://google.com",
-                 "league": "PremierLeague",
-                 "date": "August7",
-                 "time": "1 - 2",
-                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
-                 "teams" : "Man U 1-2 Brighton",
-                  "hteam" : "Man U",
-                 "ateam" : "Brighton",
-                 "hllink": [
-          {
-                "quality":"720p",
-                "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/7/42/230620/720p.m3u8"
-          },
-         {
- 
-              "quality":"480p",
-              "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/7/42/230620/360p.m3u8"
-          }
-                    ]
-     },
-
-
-{
-                 "adsimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-                 "adslink":"https://google.com",
-                 "league": "Ligue 1",
-                 "date": "August 7",
-                 "time": "0 - 5",
-                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311.png",
-                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
-                 "teams" : "Clermont Foot 0-5 PSG",
-                  "hteam" : "Clermont Foot",
-                 "ateam" : "PSG",
-                 "hllink": [
-          {
-                "quality":"720p",
-                "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/6/42/230574/720p.m3u8"
-          },
-         {
- 
-              "quality":"480p",
-              "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/6/42/230574/360p.m3u8"
-          }
-]
-     }
+}
 ]
