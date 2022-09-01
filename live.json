@@ -33,51 +33,14 @@
 "link":
 [ { "type": "HD",
  "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1662080242-0-0-008064c5610fb9b9f29e3e030e347b2d" },
+ { "type": "ENG",
+ "livelink":"https://pullalilive.livnvess.com/live/stream-220098.m3u8?auth_key=1662079882-0-0-0719b3cbdcdd6409a34444a43665d633" },
  { "type": "Full HD", 
 "livelink":"https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8"
-     }  
-       ]  
-
-             },
- 
-   {"league":"Seriea",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_MqEz8EMwZdJOufeBQ6HsnWiC0CwS_kHpeBUmdiwt3ZugmQYaUGpC5yScQyPRd-BWTcFI-kIoadZRPhkKMCaZqbNvns8g7NcG1YqISmBWCCxunNZOzwA7YNLrcp1lqKgAeCtEeZDxtBYGncWnQeLPyWCr4-8NFSGihrsusIB_yqC7OKu6FRMQwDGO/s1600/InShot_20220826_191726488.jpg",
-"adslink":"https://google.com",
-"date":"Aug-31/WED",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
-"teams":"Atalanta Vs Torino ",
-"hteam":"Atalanta",
-"ateam":"Torino ",
-"link":
-[ { "type": "HD",
- "livelink":"https://live-ak.vimeocdn.com/exp=1662061172~acl=%2F4eb844e8-3641-4157-82b4-9ecabea5298e%2F%2A~hmac=9f340a03ea4eefa63b4dce4b10210e1ec55130b501a6423ce82777e07f65be0d/4eb844e8-3641-4157-82b4-9ecabea5298e/chunklist_b728000.m3u8?max_segments=10" },
- { "type": "Full HD", 
-"livelink":"https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8"
-     }  
-       ]  
-
-             },
- 
-    {"league":"Seriea",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_MqEz8EMwZdJOufeBQ6HsnWiC0CwS_kHpeBUmdiwt3ZugmQYaUGpC5yScQyPRd-BWTcFI-kIoadZRPhkKMCaZqbNvns8g7NcG1YqISmBWCCxunNZOzwA7YNLrcp1lqKgAeCtEeZDxtBYGncWnQeLPyWCr4-8NFSGihrsusIB_yqC7OKu6FRMQwDGO/s1600/InShot_20220826_191726488.jpg",
-"adslink":"https://google.com",
-"date":"Aug-31/WED",
-"time":"1:15 AM",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-"teams":"Bologna & Salernitana",
-"hteam":"Bologna",
-"ateam":"Salernitana",
-"link":
-[ { "type": "HD",
- "livelink":"https://livestream-2.socialstreaming.tv/live/630e5756963de2001d517a88/630e5756963de2001d517a88.m3u8" },
- { "type": "Full HD", 
-"livelink":"https://livestream-2.socialstreaming.tv/live/630e5756963de2001d517a88/630e5756963de2001d517a88.m3u8"
      }  
        ]  
 
              }
+   
 ]
 
