@@ -13,8 +13,8 @@
 "link":
 [ { "type": "HD",
  "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" },
- { "type": "Full HD", 
-"livelink":"https://rr5---sn-w5nuxa-c33lk-5.googleuservideo.com/7mdooball_k1/trueepl2_480p/chunks.m3u8?nimblesessionid=53989354&wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjIgNzozMjoxNiBQTSZoYXNoX3ZhbHVlPTVPRGNta2xhT0VWZDhESTRaZnZaenc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNiZpZD01MzM1NjU"
+ { "type": "INDO Link", 
+"livelink":"https://livestream-2.socialstreaming.tv/live/631107fcc95e10001cd92dcf/631107fcc95e10001cd92dcf.m3u8"
      }  
        ]  
 
