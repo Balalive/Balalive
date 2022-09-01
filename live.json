@@ -32,7 +32,7 @@
 "ateam":"Brentford",
 "link":
 [ { "type": "HD",
- "livelink":"https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/chunklist.m3u8" },
+ "livelink":"https://video.primis.tech/uploads/cn16/video/users/hls/27808/video_5da86585285b5402816783/vid630fcf4f3c00f346338521.mp4/chunklist_480.m3u8" },
  { "type": "Full HD", 
 "livelink":"https://livestream.socialstreaming.tv/live/630e49fb5b0479001d56da02/630e49fb5b0479001d56da02.m3u8"
      }  
