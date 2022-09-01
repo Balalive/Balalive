@@ -14,7 +14,7 @@
 [ { "type": "HD",
  "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" },
  { "type": "Full HD", 
-"livelink":"https://livestream.socialstreaming.tv/live/6310f876725187001c81bb12/6310f876725187001c81bb12.m3u8"
+"livelink":"https://rr5---sn-w5nuxa-c33lk-5.googleuservideo.com/7mdooball_k4/btsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjIgNzowNzo0OCBQTSZoYXNoX3ZhbHVlPVN3dTUwbnArVlBQb09ESUozNWZMN0E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMSZpZD03NTAwNDU="
      }  
        ]  
 
@@ -32,7 +32,7 @@
 "ateam":"Manchester United",
 "link":
 [ { "type": "HD",
- "livelink":"https://live-ak.vimeocdn.com/exp=1662061172~acl=%2F4eb844e8-3641-4157-82b4-9ecabea5298e%2F%2A~hmac=9f340a03ea4eefa63b4dce4b10210e1ec55130b501a6423ce82777e07f65be0d/4eb844e8-3641-4157-82b4-9ecabea5298e/chunklist_b728000.m3u8?max_segments=10" },
+ "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1662080242-0-0-008064c5610fb9b9f29e3e030e347b2d" },
  { "type": "Full HD", 
 "livelink":"https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8"
      }  
