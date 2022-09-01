@@ -32,7 +32,7 @@
 "ateam":"Manchester United",
 "link":
 [ { "type": "HD",
- "livelink":"https://livestream.socialstreaming.tv/live/6310f876725187001c81bb12/6310f876725187001c81bb12.m3u8" },
+ "livelink":"https://live-ak.vimeocdn.com/exp=1662061172~acl=%2F4eb844e8-3641-4157-82b4-9ecabea5298e%2F%2A~hmac=9f340a03ea4eefa63b4dce4b10210e1ec55130b501a6423ce82777e07f65be0d/4eb844e8-3641-4157-82b4-9ecabea5298e/chunklist_b728000.m3u8?max_segments=10" },
  { "type": "Full HD", 
 "livelink":"https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8"
      }  
