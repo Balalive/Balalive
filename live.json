@@ -13,9 +13,12 @@
 "link":
 [ { "type": "HD",
  "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" },
- { "type": "INDO", 
-"livelink":"https://tv3.calcio02.pw/live/formula.m3u8"
-     }  
+ { "type": "Test", 
+"livelink":"https://jq9sucdqmfliv.vcdn.cloud/may9/may9@456.m3u8"
+     },
+  { "type": "Test2", 
+"livelink":"https://jq9sucdqmfliv.vcdn.cloud/may9/index.m3u8"
+     } 
        ]  
 
              },
