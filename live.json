@@ -13,12 +13,12 @@
 "link":
 [ { "type": "HD",
  "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" },
- { "type": "Test5", 
-"livelink":"https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+ { "type": "Test2", 
+"livelink":"https://jn7vb358739ewkxz.cdnexpress23.net:8443/hls/i5jw49fme.m3u8?s=Q_XSkygsfKg2DI8KEG2gKA&e=1662171822
 "
      },
-  { "type": "Test2", 
-"livelink":"https://pullalilive.livnvess.com/live/stream-113906.m3u8?auth_key=1662162742-0-0-f25caa84173be4c273a77617b8fc2fb5"
+  { "type": "Test1", 
+"livelink":"https://jn7vb358739ewkxz.cdnexpress23.net:8443/hls/i5jw49fme.m3u8?s=Q_XSkygsfKg2DI8KEG2gKA&e=1662171822"
      } 
        ]  
 
