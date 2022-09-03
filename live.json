@@ -36,11 +36,10 @@
 "ateam":"Psg",
 "link":
 [ 
- { "type": "HD1",
- "livelink":"https://livestream-2.socialstreaming.tv/live/63139eea8d533a001de681b2/63139eea8d533a001de681b2.m3u8" },
- { "type": "HD2",
+
+ { "type": "HD",
  "livelink":"https://cloud.odysee.live/live/6fc50ac27b90b00d8dbc9c18fcb26ad299324fdb.m3u8" },
- { "type": "SD1", 
+ { "type": "SD", 
 "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1662252203-0-0-ca85ab1ced70681e06a3489ef8ebb6f2"
      }  
        ]  
@@ -59,11 +58,10 @@
 "ateam":"Barcelona",
 "link":
 [ 
- { "type": "HD1",
- "livelink":"https://livestream.socialstreaming.tv/live/63139a4aa7759e001d46ba6a/63139a4aa7759e001d46ba6a.m3u8" },
- { "type": "HD2",
+ 
+ { "type": "HD",
  "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1662252082-0-0-46fcf7fc7b3295b66ff5ed6c2caa95bd" },
- { "type": "SD1", 
+ { "type": "SD", 
 "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8?hdnts=exp=1662251883~acl=/may1SD*~hmac=af9a987e6f311b8304f3bc55bd920ab273a76a300cabd56a3e0bcb312eaa62c4"
      }  
        ]  
