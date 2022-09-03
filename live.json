@@ -34,9 +34,9 @@
 "hteam":"Everton",
 "ateam":"Liverpool",
 "link":
-[ { "type": "HD",
+[ { "type": "China HD1",
  "livelink":"https://yypull.luojizhongyi.com/live/stream-535588.m3u8?auth_key=1662221774-0-0-0ae5d1f73a578845b6ff931d87ffb1fa" },
- { "type": "ENG",
+ { "type": "China HD2",
  "livelink":"https://standard-pull.hsake.com/boc/10021_649429_lhd.m3u8?auth_key=1662289196-0-0-5d218ec9f39f4f010241807d59df831c" },
  { "type": "Full HD", 
 "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1662225263-0-0-b8919eb063dcabbea8806c5a99f007a1"
