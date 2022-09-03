@@ -16,7 +16,10 @@
  { "type": "Test", 
 "livelink":"https://livestream-2.socialstreaming.tv/live/63139eea8d533a001de681b2/63139eea8d533a001de681b2.m3u8"
      },
-  { "type": "Test2", 
+{ "type": "Test2", 
+"livelink":"https://livestream.socialstreaming.tv/live/63139a4aa7759e001d46ba6a/63139a4aa7759e001d46ba6a.m3u8"
+     },
+  { "type": "Test3", 
 "livelink":"https://zcri.vhls.ru.com/cdnus/premium61/tracks-v1a1/mono.m3u8"
      } 
        ]  
