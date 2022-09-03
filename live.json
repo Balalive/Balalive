@@ -14,10 +14,10 @@
 [ { "type": "HD",
  "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" },
  { "type": "Test1", 
-"livelink":"https://livestream-2.socialstreaming.tv/live/6313504a73aec7001dbb5b99/6313504a73aec7001dbb5b99.m3u8"
+"livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8"
      },
   { "type": "Test5", 
-"livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8?hdnts=exp=1662245436~acl=/may3SD*~hmac=fc2f0d98310480a76e94acedabc052184e6ef6711f3c1ec20efb9f9c87c1b2aa"
+"livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8?hdnts=exp=1662245649~acl=/may3SD*~hmac=18e7552482a43c45ae02dc6026fd4d1abdf51b3874db42f4481414044d92668b"
      } 
        ]  
 
