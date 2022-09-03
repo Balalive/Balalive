@@ -185,7 +185,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_MqEz8EMwZdJOufeBQ6HsnWiC0CwS_kHpeBUmdiwt3ZugmQYaUGpC5yScQyPRd-BWTcFI-kIoadZRPhkKMCaZqbNvns8g7NcG1YqISmBWCCxunNZOzwA7YNLrcp1lqKgAeCtEeZDxtBYGncWnQeLPyWCr4-8NFSGihrsusIB_yqC7OKu6FRMQwDGO/s1600/InShot_20220826_191726488.jpg",
 "adslink":"https://google.com",
 "date":"Sep 3/Sat",
-"time":"10:30 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -193,11 +193,11 @@
 "ateam":"Inter",
 "link":
 [ { "type": "HD",
- "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1662080242-0-0-008064c5610fb9b9f29e3e030e347b2d" },
+ "livelink":"https://jq9sucdqmfliv.vcdn.cloud/may1SD/may1SD@456-20220903160118.ts" },
  { "type": "ENG",
- "livelink":"https://pullalilive.livnvess.com/live/stream-220098.m3u8?auth_key=1662079882-0-0-0719b3cbdcdd6409a34444a43665d633" },
+ "livelink":"https://jq9sucdqmfliv.vcdn.cloud/may1SD/may1SD@456.m3u8" },
  { "type": "Full HD", 
-"livelink":"https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8"
+"livelink":"https://jq9sucdqmfliv.vcdn.cloud/may1SD/may1SD@456.m3u8"
      }  
        ]  
 
