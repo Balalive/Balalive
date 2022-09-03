@@ -13,8 +13,8 @@
 "link":
 [ { "type": "HD",
  "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" },
- { "type": "Test", 
-"livelink":"https://livestream-2.socialstreaming.tv/live/631379648d533a001de681aa/631379648d533a001de681aa.m3u84671a79ec6c00cbb"
+ { "type": "Test1", 
+"livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8?hdnts=exp=1662251883~acl=/may1SD*~hmac=af9a987e6f311b8304f3bc55bd920ab273a76a300cabd56a3e0bcb312eaa62c4"
      },
   { "type": "Test5", 
 "livelink":"https://livestream-2.socialstreaming.tv/live/631379648d533a001de681aa/631379648d533a001de681aa.m3u8"
