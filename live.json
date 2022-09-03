@@ -13,9 +13,8 @@
 "link":
 [ { "type": "HD",
  "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" },
- { "type": "Test2", 
-"livelink":"https://jn7vb358739ewkxz.cdnexpress23.net:8443/hls/i5jw49fme.m3u8?s=Q_XSkygsfKg2DI8KEG2gKA&e=1662171822
-"
+ { "type": "Test1", 
+"livelink":"hhttps://zcri.vhls.ru.com/cdnus2/premium594/tracks-v1a1/mono.m3u8"
      },
   { "type": "Test3", 
 "livelink":"https://jn7vb358739ewkxz.cdnexpress23.net:8443/hls/i5jw49fme.m3u8?s=PAaiTB-fbz-zZqm8O81dwQ&e=1662172190"
