@@ -13,8 +13,8 @@
 "link":
 [ { "type": "HD",
  "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" },
- { "type": "Test1", 
-"livelink":"hhttps://zcri.vhls.ru.com/cdnus2/premium594/tracks-v1a1/mono.m3u8"
+ { "type": "Test3", 
+"livelink":"https://play2-cf.score808tv.cc/d08d0c146057ad685cae701d526bf1dd/app/c125092.m3u8"
      },
   { "type": "Test4", 
 "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1662235343-0-0-28117ceccd72da57d4a7b1bcfc3791c8"
