@@ -44,7 +44,7 @@
 "link":
 [ 
  { "type": "HD1",
- "livelink":"https://livestream-2.socialstreaming.tv/live/63137afe758a83001c6061b5/63137afe758a83001c6061b5.m3u8" },
+ "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8?hdnts=exp=1662249260~acl=/123SD*~hmac=8e11a3285a1c0485f6c8eed4bc47c37e4e4cd6adb6ffd01b3917e806f71a8e0d" },
  { "type": "HD2",
  "livelink":"https://yypull.luojizhongyi.com/live/stream-535588.m3u8?auth_key=1662222434-0-0-7998c17b720b1f398de89a98888a8330" },
  { "type": "SD1", 
