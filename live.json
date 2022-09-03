@@ -16,8 +16,8 @@
  { "type": "Test1", 
 "livelink":"hhttps://zcri.vhls.ru.com/cdnus2/premium594/tracks-v1a1/mono.m3u8"
      },
-  { "type": "Test3", 
-"livelink":"https://jn7vb358739ewkxz.cdnexpress23.net:8443/hls/i5jw49fme.m3u8?s=PAaiTB-fbz-zZqm8O81dwQ&e=1662172190"
+  { "type": "Test2", 
+"livelink":"https://zcri.vhls.ru.com/lb/premium594/index.m3u8"
      } 
        ]  
 
