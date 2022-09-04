@@ -29,16 +29,16 @@
 
  
  
- {"league":"Premier League",
+ {"league":"Champions League",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_MqEz8EMwZdJOufeBQ6HsnWiC0CwS_kHpeBUmdiwt3ZugmQYaUGpC5yScQyPRd-BWTcFI-kIoadZRPhkKMCaZqbNvns8g7NcG1YqISmBWCCxunNZOzwA7YNLrcp1lqKgAeCtEeZDxtBYGncWnQeLPyWCr4-8NFSGihrsusIB_yqC7OKu6FRMQwDGO/s1600/InShot_20220826_191726488.jpg",
 "adslink":"https://google.com",
-"date":"Sep 4/Sat",
-"time":"5 : 2",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+"date":"Sep 6/Sat",
+"time":"11:15 PM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10156_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"Brighton & Hove Albion",
-"ateam":"Leicester City",
+"hteam":"Dinamo Zagreb",
+"ateam":"Chelsea",
 "link":
 [ 
 
@@ -52,16 +52,16 @@
 
              },
  
- {"league":"Premier League",
+ {"league":"Champions League",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_MqEz8EMwZdJOufeBQ6HsnWiC0CwS_kHpeBUmdiwt3ZugmQYaUGpC5yScQyPRd-BWTcFI-kIoadZRPhkKMCaZqbNvns8g7NcG1YqISmBWCCxunNZOzwA7YNLrcp1lqKgAeCtEeZDxtBYGncWnQeLPyWCr4-8NFSGihrsusIB_yqC7OKu6FRMQwDGO/s1600/InShot_20220826_191726488.jpg",
 "adslink":"https://google.com",
-"date":"Sep 4/Sat",
-"time":"3 : 1 ",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+"date":"Sep 6/Sat",
+"time":"11:15 PM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8391_small.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"Manchester United",
-"ateam":"Arsenal",
+"hteam":"Dortmund",
+"ateam":"FC København",
 "link":
 [ 
  { "type": "Ven 1", 
@@ -77,6 +77,59 @@
        ]  
 
              },
+ 
+  {"league":"Champions League",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_MqEz8EMwZdJOufeBQ6HsnWiC0CwS_kHpeBUmdiwt3ZugmQYaUGpC5yScQyPRd-BWTcFI-kIoadZRPhkKMCaZqbNvns8g7NcG1YqISmBWCCxunNZOzwA7YNLrcp1lqKgAeCtEeZDxtBYGncWnQeLPyWCr4-8NFSGihrsusIB_yqC7OKu6FRMQwDGO/s1600/InShot_20220826_191726488.jpg",
+"adslink":"https://google.com",
+"date":"Sep 7/Sat",
+"time":"1:30 AM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Sevilla",
+"ateam":"Manchester City",
+"link":
+[ 
+ { "type": "Ven 1", 
+"livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1662325583-0-0-80726770b89d20516c2595d270c45a8e"
+     },
+  { "type": "Ven 2", 
+"livelink":"https://pullalilive.livnvess.com/live/pullalilive.livnvess.com_stream-168740-1662308862409.ts?auth_key=1662325583-0-0-43e09dde4ab6c75763739a845516a503"},
+ { "type": "China1",
+ "livelink":"http://play.qqzb666.com/live2/a46573f5c0e1e33fcab782267e20968b.m3u8?auth_key=3324637222-0-0-ef5bbb201612b01ebd81373a818bf042" },
+ { "type": "China2", 
+"livelink":"https://pull.zzjxjz.com/live/10391_1662304081.m3u8"
+     }  
+       ]  
+
+             },
+ 
+  {"league":"Champions League",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_MqEz8EMwZdJOufeBQ6HsnWiC0CwS_kHpeBUmdiwt3ZugmQYaUGpC5yScQyPRd-BWTcFI-kIoadZRPhkKMCaZqbNvns8g7NcG1YqISmBWCCxunNZOzwA7YNLrcp1lqKgAeCtEeZDxtBYGncWnQeLPyWCr4-8NFSGihrsusIB_yqC7OKu6FRMQwDGO/s1600/InShot_20220826_191726488.jpg",
+"adslink":"https://google.com",
+"date":"Sep 7/Sat",
+"time":"1:30 AM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"PSG,
+"ateam":"Juventus",
+"link":
+[ 
+ { "type": "Ven 1", 
+"livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1662325583-0-0-80726770b89d20516c2595d270c45a8e"
+     },
+  { "type": "Ven 2", 
+"livelink":"https://pullalilive.livnvess.com/live/pullalilive.livnvess.com_stream-168740-1662308862409.ts?auth_key=1662325583-0-0-43e09dde4ab6c75763739a845516a503"},
+ { "type": "China1",
+ "livelink":"http://play.qqzb666.com/live2/a46573f5c0e1e33fcab782267e20968b.m3u8?auth_key=3324637222-0-0-ef5bbb201612b01ebd81373a818bf042" },
+ { "type": "China2", 
+"livelink":"https://pull.zzjxjz.com/live/10391_1662304081.m3u8"
+     }  
+       ]  
+
+             },
+ 
  
  {"league":"Laliga",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_MqEz8EMwZdJOufeBQ6HsnWiC0CwS_kHpeBUmdiwt3ZugmQYaUGpC5yScQyPRd-BWTcFI-kIoadZRPhkKMCaZqbNvns8g7NcG1YqISmBWCCxunNZOzwA7YNLrcp1lqKgAeCtEeZDxtBYGncWnQeLPyWCr4-8NFSGihrsusIB_yqC7OKu6FRMQwDGO/s1600/InShot_20220826_191726488.jpg",
