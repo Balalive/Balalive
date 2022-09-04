@@ -13,8 +13,8 @@
 "link":
 [ { "type": "HD",
  "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" },
- { "type": "Test11", 
-"livelink":"https://bto2cdn16611.90minkora.com/UpFiles/2022/9/3/52/233083/720p.m3u8"
+ { "type": "Test1", 
+"livelink":"https://livestream.socialstreaming.tv/live/6314b6d273aec7001dbb5c29/6314b6d273aec7001dbb5c29.m3u8"
      },
 { "type": "Test", 
 "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8?hdnts=exp=1662322132~acl=/may2SD*~hmac=5dd1105f896702bcfbc368f72ff9bf1a96c26ecc2b4928e4e2792fbc2525a61c"
