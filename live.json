@@ -13,8 +13,8 @@
 "link":
 [ { "type": "HD",
  "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" },
- { "type": "Test", 
-"livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1662252082-0-0-46fcf7fc7b3295b66ff5ed6c2caa95bd"
+ { "type": "Test11", 
+"livelink":"https://bto2cdn16611.90minkora.com/UpFiles/2022/9/3/52/233083/720p.m3u8"
      },
 { "type": "Test5", 
 "livelink":"https://livestream-2.socialstreaming.tv/live/63139ce6da8438001d1c674b/63139ce6da8438001d1c674b.m3u8"
