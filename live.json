@@ -26,34 +26,14 @@
 
              },
  
-  {"league":"Laliga",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_MqEz8EMwZdJOufeBQ6HsnWiC0CwS_kHpeBUmdiwt3ZugmQYaUGpC5yScQyPRd-BWTcFI-kIoadZRPhkKMCaZqbNvns8g7NcG1YqISmBWCCxunNZOzwA7YNLrcp1lqKgAeCtEeZDxtBYGncWnQeLPyWCr4-8NFSGihrsusIB_yqC7OKu6FRMQwDGO/s1600/InShot_20220826_191726488.jpg",
-"adslink":"https://google.com",
-"date":"Sep 4/Sat",
-"time":"6:30 PM",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Osasuna",
-"ateam":"Rayo Vallecano",
-"link":
-[ 
- 
- { "type": "HD",
- "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1662252082-0-0-46fcf7fc7b3295b66ff5ed6c2caa95bd" },
- { "type": "SD", 
-"livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8?hdnts=exp=1662251883~acl=/may1SD*~hmac=af9a987e6f311b8304f3bc55bd920ab273a76a300cabd56a3e0bcb312eaa62c4"
-     }  
-       ]  
 
-             },
  
  
  {"league":"Premier League",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_MqEz8EMwZdJOufeBQ6HsnWiC0CwS_kHpeBUmdiwt3ZugmQYaUGpC5yScQyPRd-BWTcFI-kIoadZRPhkKMCaZqbNvns8g7NcG1YqISmBWCCxunNZOzwA7YNLrcp1lqKgAeCtEeZDxtBYGncWnQeLPyWCr4-8NFSGihrsusIB_yqC7OKu6FRMQwDGO/s1600/InShot_20220826_191726488.jpg",
 "adslink":"https://google.com",
 "date":"Sep 4/Sat",
-"time":"7:30 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -63,9 +43,9 @@
 [ 
 
  { "type": "HD",
- "livelink":"https://cloud.odysee.live/live/6fc50ac27b90b00d8dbc9c18fcb26ad299324fdb.m3u8" },
+ "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1662317723-0-0-59d59332988eb1bf5984e483fa153c5f" },
  { "type": "SD", 
-"livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1662252203-0-0-ca85ab1ced70681e06a3489ef8ebb6f2"
+"livelink":"https://pullalilive.livnvess.com/live/pullalilive.livnvess.com_stream-129184-1662297193982.ts?auth_key=1662317543-0-0-a890c1365fbf980463b146f67c6471af"
      }  
        ]  
 
