@@ -55,7 +55,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_MqEz8EMwZdJOufeBQ6HsnWiC0CwS_kHpeBUmdiwt3ZugmQYaUGpC5yScQyPRd-BWTcFI-kIoadZRPhkKMCaZqbNvns8g7NcG1YqISmBWCCxunNZOzwA7YNLrcp1lqKgAeCtEeZDxtBYGncWnQeLPyWCr4-8NFSGihrsusIB_yqC7OKu6FRMQwDGO/s1600/InShot_20220826_191726488.jpg",
 "adslink":"https://google.com",
 "date":"Sep 4/Sat",
-"time":"10:00 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -65,9 +65,9 @@
 [ 
  
  { "type": "HD",
- "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1662252082-0-0-46fcf7fc7b3295b66ff5ed6c2caa95bd" },
- { "type": "SD", 
-"livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8?hdnts=exp=1662251883~acl=/may1SD*~hmac=af9a987e6f311b8304f3bc55bd920ab273a76a300cabd56a3e0bcb312eaa62c4"
+ "livelink":"http://play.qqzb666.com/live2/a46573f5c0e1e33fcab782267e20968b.m3u8?auth_key=3324637222-0-0-ef5bbb201612b01ebd81373a818bf042" },
+ { "type": "China", 
+"livelink":"https://pull.zzjxjz.com/live/10391_1662304081.m3u8"
      }  
        ]  
 
