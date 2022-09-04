@@ -44,12 +44,13 @@
 
  { "type": "HD",
  "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1662317723-0-0-59d59332988eb1bf5984e483fa153c5f" },
+
  { "type": "SD", 
 "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8?hdnts=exp=1662322132~acl=/may2SD*~hmac=5dd1105f896702bcfbc368f72ff9bf1a96c26ecc2b4928e4e2792fbc2525a61c"
      }  
        ]  
 
-             },
+             }
  
  {"league":"Premier League",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_MqEz8EMwZdJOufeBQ6HsnWiC0CwS_kHpeBUmdiwt3ZugmQYaUGpC5yScQyPRd-BWTcFI-kIoadZRPhkKMCaZqbNvns8g7NcG1YqISmBWCCxunNZOzwA7YNLrcp1lqKgAeCtEeZDxtBYGncWnQeLPyWCr4-8NFSGihrsusIB_yqC7OKu6FRMQwDGO/s1600/InShot_20220826_191726488.jpg",
@@ -63,10 +64,14 @@
 "ateam":"Arsenal",
 "link":
 [ 
- 
- { "type": "HD",
+ { "type": "Ven 1", 
+"livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1662325583-0-0-80726770b89d20516c2595d270c45a8e"
+     },
+  { "type": "Ven 2", 
+"livelink":"https://pullalilive.livnvess.com/live/pullalilive.livnvess.com_stream-168740-1662308862409.ts?auth_key=1662325583-0-0-43e09dde4ab6c75763739a845516a503"},
+ { "type": "China1",
  "livelink":"http://play.qqzb666.com/live2/a46573f5c0e1e33fcab782267e20968b.m3u8?auth_key=3324637222-0-0-ef5bbb201612b01ebd81373a818bf042" },
- { "type": "China", 
+ { "type": "China2", 
 "livelink":"https://pull.zzjxjz.com/live/10391_1662304081.m3u8"
      }  
        ]  
