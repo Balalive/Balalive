@@ -82,7 +82,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_MqEz8EMwZdJOufeBQ6HsnWiC0CwS_kHpeBUmdiwt3ZugmQYaUGpC5yScQyPRd-BWTcFI-kIoadZRPhkKMCaZqbNvns8g7NcG1YqISmBWCCxunNZOzwA7YNLrcp1lqKgAeCtEeZDxtBYGncWnQeLPyWCr4-8NFSGihrsusIB_yqC7OKu6FRMQwDGO/s1600/InShot_20220826_191726488.jpg",
 "adslink":"https://google.com",
 "date":"Sep 4/Sat",
-"time":"11:00 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -91,10 +91,10 @@
 "link":
 [ 
  
- { "type": "HD",
- "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1662252082-0-0-46fcf7fc7b3295b66ff5ed6c2caa95bd" },
- { "type": "SD", 
-"livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8?hdnts=exp=1662251883~acl=/may1SD*~hmac=af9a987e6f311b8304f3bc55bd920ab273a76a300cabd56a3e0bcb312eaa62c4"
+ { "type": "Link1",
+ "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may61/may61@456.m3u8?hdnts=exp=1662334924~acl=/may61*~hmac=84bfd8e7e104ef5c4484c29170d7ccc3435595e7efb6dee556bd42b1654e4c9c" },
+ { "type": "Link2", 
+"livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may61/may61@456.m3u8?hdnts=exp=1662334925~acl=/may61*~hmac=44f3d4029f22c44097aaacc80817cb006bee603f72d0fc5e3984496d3713e3d8"
      }  
        ]  
 
