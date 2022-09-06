@@ -45,9 +45,15 @@
  { "type": "SD",
  "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8" },
 
- { "type": "မရသေးပါ", 
-"livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8?hdnts=exp=1662322132~acl=/may2SD*~hmac=5dd1105f896702bcfbc368f72ff9bf1a96c26ecc2b4928e4e2792fbc2525a61c"
-     }  
+ { "type": "link1", 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1662490694-0-0-21eb7d56f4fe5519230a5121bcacac3d"
+     } ,
+ { "type": "link2", 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-yy2022.m3u8?auth_key=1662483552-0-0-5aa707606d0f060faf4e29ba8dd31b88"
+     }  ,
+ { "type": "link3", 
+"livelink":"https://standard-pull.hsake.com/boc/10021_649422_lhd.m3u8?auth_key=1662567538-0-0-607e4880f42326d21be6ec988672ee28"
+     }   
        ]  
 
              },
@@ -69,10 +75,10 @@
      },
   { "type": "Ven HD", 
 "livelink":"https://pullalilive.livnvess.com/live/stream-100684.m3u8?auth_key=1662502703-0-0-6342e04d2025d6e1a65525879a425e4d"},
- { "type": "မရသေးပါ",
- "livelink":"http://play.qqzb666.com/live2/a46573f5c0e1e33fcab782267e20968b.m3u8?auth_key=3324637222-0-0-ef5bbb201612b01ebd81373a818bf042" },
- { "type": "မရသေးပါ", 
-"livelink":"https://pull.zzjxjz.com/live/10391_1662304081.m3u8"
+ { "type": "ENG HD",
+ "livelink":"http://play.qqzb666.com/live2/d85e5662dd52b4c63a161d755398ac9f.m3u8?auth_key=3324992522-0-0-80d976cf0e497d6b84ba05ba14401299" },
+ { "type": "ENG Full HD", 
+"livelink":"https://pull.zzjxjz.com/live/10390_1662473124.m3u8"
      }  
        ]  
 
