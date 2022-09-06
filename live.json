@@ -33,7 +33,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 6/Sat",
-"time":"11:15 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10156_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -42,8 +42,8 @@
 "link":
 [ 
 
- { "type": "HD",
- "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1662317723-0-0-59d59332988eb1bf5984e483fa153c5f" },
+ { "type": "SD",
+ "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8" },
 
  { "type": "SD", 
 "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8?hdnts=exp=1662322132~acl=/may2SD*~hmac=5dd1105f896702bcfbc368f72ff9bf1a96c26ecc2b4928e4e2792fbc2525a61c"
