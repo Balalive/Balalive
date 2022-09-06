@@ -33,7 +33,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 6/Sat",
-"time":"live",
+"time":"1:0",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10156_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -62,7 +62,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 6/Sat",
-"time":"live",
+"time":"3:0",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8391_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -123,8 +123,8 @@
  { "type": "SD",
  "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8" },
 
- { "type": "မရသေးပါ", 
-"livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8?hdnts=exp=1662322132~acl=/may2SD*~hmac=5dd1105f896702bcfbc368f72ff9bf1a96c26ecc2b4928e4e2792fbc2525a61c"
+ { "type": "HD", 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-5185670.m3u8?auth_key=1662491114-0-0-b6ff4c87c15ecbf85e9418fedb1265d2"
      }  
        ]  
 
@@ -146,11 +146,11 @@
 "livelink":"https://pullalilive.livnvess.com/live/stream-141691.m3u8?auth_key=1662511523-0-0-495b2f230c053afb232ebe9e4e0ae498"
      },
   { "type": "Link1", 
-"livelink":"https://pullalilive.livnvess.com/live/pullalilive.livnvess.com_stream-168740-1662308862409.ts?auth_key=1662325583-0-0-43e09dde4ab6c75763739a845516a503"},
+"livelink":"https://standard-pull.hsake.com/boc/10021_905570_lhd.m3u8?auth_key=1662575479-0-0-c9690fdbb041a0bb2d4951ca2490f605845516a503"},
  { "type": "Link2",
- "livelink":"http://play.qqzb666.com/live2/a46573f5c0e1e33fcab782267e20968b.m3u8?auth_key=3324637222-0-0-ef5bbb201612b01ebd81373a818bf042" },
+ "livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1662490994-0-0-8ac442c1c261308cfb21d9d608b24a38" },
  { "type": "Link3", 
-"livelink":"https://pull.zzjxjz.com/live/10391_1662304081.m3u8"
+"livelink":"https://standard-pull.hsake.com/boc/10021_831938_lhd.m3u8?auth_key=1662575771-0-0-b506c0b5d0078e2c63a67d28b9687d47"
      }  
        ]  
 
@@ -172,11 +172,11 @@
 "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8"
      },
   { "type": "Ven 2", 
-"livelink":"https://pullalilive.livnvess.com/live/pullalilive.livnvess.com_stream-168740-1662308862409.ts?auth_key=1662325583-0-0-43e09dde4ab6c75763739a845516a503"},
+"livelink":"https://yypull.luojizhongyi.com/live/stream-552369.m3u8?auth_key=1662491234-0-0-f1f9e85db90ac060ca65e64e9c14f2d3"},
  { "type": "China1",
- "livelink":"http://play.qqzb666.com/live2/a46573f5c0e1e33fcab782267e20968b.m3u8?auth_key=3324637222-0-0-ef5bbb201612b01ebd81373a818bf042" },
+ "livelink":"https://yypull.luojizhongyi.com/live/stream-552369.m3u8?auth_key=1662491234-0-0-f1f9e85db90ac060ca65e64e9c14f2d3" },
  { "type": "China2", 
-"livelink":"https://pull.zzjxjz.com/live/10391_1662304081.m3u8"
+"livelink":"https://standard-pull.hsake.com/boc/10021_428408_lhd.m3u8?auth_key=1662575808-0-0-745cdf95769d45afc12b08154b13a39a"
      }  
        ]  
 
