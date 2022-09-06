@@ -111,7 +111,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 7/Sat",
-"time":"1:30 AM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9925_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -143,13 +143,13 @@
 "link":
 [ 
  { "type": "Ven 1", 
-"livelink":"https://livestream-2.socialstreaming.tv/live/63178eb65e96db001dc58451/63178eb65e96db001dc58451.m3u8"
+"livelink":"https://pullalilive.livnvess.com/live/stream-141691.m3u8?auth_key=1662511523-0-0-495b2f230c053afb232ebe9e4e0ae498"
      },
-  { "type": "Ven 2", 
+  { "type": "Link1", 
 "livelink":"https://pullalilive.livnvess.com/live/pullalilive.livnvess.com_stream-168740-1662308862409.ts?auth_key=1662325583-0-0-43e09dde4ab6c75763739a845516a503"},
- { "type": "China1",
+ { "type": "Link2",
  "livelink":"http://play.qqzb666.com/live2/a46573f5c0e1e33fcab782267e20968b.m3u8?auth_key=3324637222-0-0-ef5bbb201612b01ebd81373a818bf042" },
- { "type": "China2", 
+ { "type": "Link3", 
 "livelink":"https://pull.zzjxjz.com/live/10391_1662304081.m3u8"
      }  
        ]  
