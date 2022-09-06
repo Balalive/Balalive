@@ -27,134 +27,8 @@
              },
  
 
- {"league":"Champions League",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
-"adslink":"https://google.com",
-"date":"Sep 7/Sat",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10013_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Salzburg",
-"ateam":"Milan",
-"link":
-[ 
-
- { "type": "SD",
- "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8" },
-
- { "type": "HD", 
-"livelink":"https://pullalilive.livnvess.com/live/stream-161243.m3u8?auth_key=1662511643-0-0-fa0e6e612493ed6056981238b12647e7"
-     }  
-       ]  
-
-             },
  
- {"league":"Champions League",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
-"adslink":"https://google.com",
-"date":"Sep 7/Sat",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9925_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Celtic",
-"ateam":"Real Madrid",
-"link":
-[ 
-
- { "type": "SD",
- "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8" },
-
- { "type": "HD", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-5185670.m3u8?auth_key=1662491114-0-0-b6ff4c87c15ecbf85e9418fedb1265d2"
-     }  
-       ]  
-
-             },
- 
-  {"league":"Champions League",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
-"adslink":"https://google.com",
-"date":"Sep 7/Sat",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Sevilla",
-"ateam":"Manchester City",
-"link":
-[ 
- { "type": "Ven 1", 
-"livelink":"https://pullalilive.livnvess.com/live/stream-141691.m3u8?auth_key=1662511523-0-0-495b2f230c053afb232ebe9e4e0ae498"
-     },
-  { "type": "Link1", 
-"livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1662511403-0-0-bb53140f8947fed3d417e0b5eef7c8fe"},
- { "type": "Link2",
- "livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1662490994-0-0-8ac442c1c261308cfb21d9d608b24a38" },
- { "type": "Link3", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_831938_lhd.m3u8?auth_key=1662575771-0-0-b506c0b5d0078e2c63a67d28b9687d47"
-     }  
-       ]  
-
-             },
- 
-  {"league":"Champions League",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
-"adslink":"https://google.com",
-"date":"Sep 7/Sat",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"PSG",
-"ateam":"Juventus",
-"link":
-[ 
- { "type": "Ven 1", 
-"livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8"
-     },
-  { "type": "Ven 2", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-552369.m3u8?auth_key=1662491234-0-0-f1f9e85db90ac060ca65e64e9c14f2d3"},
- { "type": "China1",
- "livelink":"https://yypull.luojizhongyi.com/live/stream-552369.m3u8?auth_key=1662491234-0-0-f1f9e85db90ac060ca65e64e9c14f2d3" },
- { "type": "China2", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428408_lhd.m3u8?auth_key=1662575808-0-0-745cdf95769d45afc12b08154b13a39a"
-     }  
-       ]  
-
-             },
- 
- {"league":"Europa League",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
-"adslink":"https://google.com",
-"date":"Sep 8/Sat",
-"time":"11:15 PM",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10243_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"FC Zürich",
-"ateam":"Arsenal",
-"link":
-[ 
-
- { "type": "SD",
- "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8" },
-
- { "type": "link1", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1662490694-0-0-21eb7d56f4fe5519230a5121bcacac3d"
-     } ,
- { "type": "link2", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-yy2022.m3u8?auth_key=1662483552-0-0-5aa707606d0f060faf4e29ba8dd31b88"
-     }  ,
- { "type": "link3", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_649422_lhd.m3u8?auth_key=1662567538-0-0-607e4880f42326d21be6ec988672ee28"
-     }   
-       ]  
-
-             },
- 
- {"league":"Champions League",
+{"league":"Champions League",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 8/Sat",
@@ -280,6 +154,35 @@
 "teams":"Leicester City Vs Manchester United",
 "hteam":"Inter",
 "ateam":"Bayern München",
+"link":
+[ 
+
+ { "type": "SD",
+ "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8" },
+
+ { "type": "link1", 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1662490694-0-0-21eb7d56f4fe5519230a5121bcacac3d"
+     } ,
+ { "type": "link2", 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-yy2022.m3u8?auth_key=1662483552-0-0-5aa707606d0f060faf4e29ba8dd31b88"
+     }  ,
+ { "type": "link3", 
+"livelink":"https://standard-pull.hsake.com/boc/10021_649422_lhd.m3u8?auth_key=1662567538-0-0-607e4880f42326d21be6ec988672ee28"
+     }   
+       ]  
+
+             },
+ 
+  {"league":"Europa League",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
+"adslink":"https://google.com",
+"date":"Sep 8/Sat",
+"time":"11:15 PM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10243_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"FC Zürich",
+"ateam":"Arsenal",
 "link":
 [ 
 
