@@ -42,14 +42,14 @@
  { "type": "SD",
  "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8" },
 
- { "type": "မရသေးပါ", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1662490694-0-0-21eb7d56f4fe5519230a5121bcacac3d"
+ { "type": "Link1", 
+"livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1662589643-0-0-5cf40a8730efc65f026190eda5858103"
      } ,
- { "type": "မရသေးပါ", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-yy2022.m3u8?auth_key=1662483552-0-0-5aa707606d0f060faf4e29ba8dd31b88"
+ { "type": "Link2", 
+"livelink":"https://standard-pull.hsake.com/boc/10021_428429_lhd.m3u8?auth_key=1662653569-0-0-10927e35bbacfbcae6e768bf9c6ccf80"
      }  ,
- { "type": "မရသေးပါ", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_649422_lhd.m3u8?auth_key=1662567538-0-0-607e4880f42326d21be6ec988672ee28"
+ { "type": "Link3", 
+"livelink":"https://standard-pull.hsake.com/boc/10021_428429_lhd.m3u8?auth_key=1662653569-0-0-10927e35bbacfbcae6e768bf9c6ccf80"
      }   
        ]  
 
