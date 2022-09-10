@@ -31,11 +31,8 @@
 "link":
 [ 
 { "type": "SD",
- "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may10/index.m3u8" },
-
- { "type": "HD", 
-"livelink":"https://pullalilive.livnvess.com/live/stream-106737.m3u8?auth_key=1662831083-0-0-f7419bc5cc7390f2393af90a5e768b1b"
-     }   
+ "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may10/index.m3u8" }
+ 
        ]  
 
              },
