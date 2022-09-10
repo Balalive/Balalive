@@ -1,23 +1,5 @@
 [
  
- {"league":"Man U TV",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk-qYKJ3rihr16fnSGnXpYebKZhWpYm1Ju6q6YzVZWxHEBZmpv1RgkSbHiOjsTahKcvpTMR4DMd31kOuFsi0UPsKvKipxJm9ceVhI3pATU7wSroq88ZYgkgYryjEAu05oSU-Arsvxa2ci9fRpGq5w-7bhiYeO6bOGcQwLHe_uPougJ0ccmRHeldCSa/s1600/received_1146619029565014.jpeg",
-"adslink":"https://www.facebook.com/profile.php?id=100004855725100",
-"date":"Man U TV",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-"teams":"0",
-"hteam":"Man",
-"ateam":"Man",
-"link":
-[ { "type": "HD",
- "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" }
- 
-       ]  
-
-             },
- 
  {"league":"Laliga",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
@@ -64,7 +46,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 10/Sat",
-"time":"8:00 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -73,10 +55,10 @@
 "link":
 [ 
 { "type": "SD",
- "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/chunklist.m3u8" },
+ "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8" },
 
- { "type": "link1", 
-"livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/chunklist.m3u8"
+ { "type": "HD", 
+"livelink":"https://pullalilive.livnvess.com/live/stream-120778.m3u8?auth_key=1662836903-0-0-ca9ec362d3a0c09ac2f61dea277c6c96"
      }   
        ]  
 
@@ -86,7 +68,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 10/Sat",
-"time":"8:00 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -95,10 +77,10 @@
 "link":
 [ 
 { "type": "SD",
- "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/chunklist.m3u8" },
+ "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may7/may7@456.m3u8" },
 
- { "type": "link1", 
-"livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/chunklist.m3u8"
+ { "type": "HD", 
+"livelink":"https://pullalilive.livnvess.com/live/stream-100377.m3u8?auth_key=1662836963-0-0-99375802fb1438a1d60a9a24f098e06f"
      }   
        ]  
 
@@ -108,7 +90,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 10/Sat",
-"time":"8:00 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -117,10 +99,10 @@
 "link":
 [ 
 { "type": "SD",
- "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/chunklist.m3u8" },
+ "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8" },
 
- { "type": "link1", 
-"livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/chunklist.m3u8"
+ { "type": "HD", 
+"livelink":"https://pullalilive.livnvess.com/live/stream-104707.m3u8?auth_key=1662836963-0-0-34f61461a11d3436e9971d58b1e05ece"
      }   
        ]  
 
