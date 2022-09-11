@@ -3,17 +3,20 @@
  {"league":"Laliga",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
-"date":"Sep 10/Sat",
-"time":"ပွဲပြီး",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
+"date":"Sep 11/Sat",
+"time":"live",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"Rayo Vallecano",
-"ateam":"Valencia",
+"hteam":"Real Madrid",
+"ateam":"Mallorca",
 "link":
 [ 
 { "type": "SD",
- "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may10/index.m3u8" }
+ "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8" },
+  { "type": "HD", 
+"livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1662918203-0-0-581dc97189dbfb6ea7c50a41b8752bbc"
+     } 
  
        ]  
 
@@ -23,12 +26,12 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 10/Sat",
-"time":"ပွဲပြီး",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
+"time":"7:30 PM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"Napoli",
-"ateam":"Spezia",
+"hteam":"Bologna",
+"ateam":"Fiorentina",
 "link":
 [ 
 { "type": "SD",
@@ -42,16 +45,16 @@
 
              },
  
-  {"league":"BUNDESLIGA",
+  {"league":"Seriea",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 10/Sat",
-"time":"ပွဲပြီး",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
+"time":"7:30 PM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"Bayern",
-"ateam":"VfB Stuttgart",
+"hteam":"Sassuolo",
+"ateam":"Udinese",
 "link":
 [ 
 { "type": "SD",
@@ -64,16 +67,16 @@
 
              },
  
- {"league":"BUNDESLIGA",
+ {"league":"League1",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 10/Sat",
-"time":"ပွဲပြီး",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
+"time":"7:30 PM",
+"himg":"htt:ps://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"Frankfurt",
-"ateam":"Wolfsburg",
+"hteam":"Angers",
+"ateam":"Montpellier",
 "link":
 [ 
 { "type": "SD",
@@ -86,16 +89,16 @@
 
              },
  
-  {"league":"BUNDESLIGA",
+  {"league":"League1",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 10/Sat",
-"time":"ပွဲပြီး",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+"time":"7:30 PM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"RB Leipzin",
-"ateam":"Dortmund",
+"hteam":"Lorient",
+"ateam":"Nantes",
 "link":
 [ 
 { "type": "SD",
@@ -109,16 +112,16 @@
              },
  
  
- {"league":"Laliga",
+ {"league":"Bundesliga",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 10/Sat",
-"time":"ပွဲပြီး",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+"time":"8:00 PM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"Espanyol",
-"ateam":"Sevilla",
+"hteam":"1. FC Köln",
+"ateam":"Union Berlin",
 "link":
 [ 
 { "type": "SD",
@@ -130,17 +133,16 @@
        ]  
 
              },
- 
- {"league":"Ligue 1",
+  {"league":"Laliga",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 10/Sat",
-"time":"ပွဲပြီး",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",
+"time":"8:45 PM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"PSG",
-"ateam":"Brest",
+"hteam":"Elche",
+"ateam":"Athletic Club",
 "link":
 [ 
 { "type": "link1",
@@ -153,16 +155,16 @@
 
              },
 
-{"league":"Serie A",
+{"league":"Ligue1",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 10/Sat",
-"time":"ပွဲပြီး",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
+"time":"9:30 PM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"Inter",
-"ateam":"Torino",
+"hteam":"Rennes",
+"ateam":"Auxerre",
 "link":
 [ 
 { "type": "SD",
@@ -175,16 +177,16 @@
 
              },
  
- {"league":"Laliga",
+ {"league":"Bundesliga",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 10/Sat",
-"time":"ပွဲပြီး",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+"time":"10: PM,
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"Cadiz",
-"ateam":"Barcelona",
+"hteam":"SC Freiburg",
+"ateam":"Borussia M'Gladbach",
 "link":
 [ 
 { "type": "SD",
