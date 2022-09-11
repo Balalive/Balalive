@@ -72,7 +72,7 @@
 "adslink":"https://google.com",
 "date":"Sep 10/Sat",
 "time":"7:30 PM",
-"himg":"htt:ps://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
 "teams":"Leicester City Vs Manchester United",
 "hteam":"Angers",
@@ -187,6 +187,52 @@
 "teams":"Leicester City Vs Manchester United",
 "hteam":"SC Freiburg",
 "ateam":"Borussia M'Gladbach",
+"link":
+[ 
+{ "type": "SD",
+ "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8?hdnts=exp=1662851678~acl=/may3SD*~hmac=c44c77ac291f040ed3b9b5991554007faad80b811c5f1d2595331c658a1f6cae" },
+
+ { "type": "HD", 
+"livelink":"https://pullalilive.livnvess.com/live/stream-161243.m3u8?auth_key=1662848303-0-0-1d8d4cc02308f299323029869009712e"
+     } 
+
+       ]  
+
+             },
+ 
+  {"league":"SerieA",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
+"adslink":"https://google.com",
+"date":"Sep 10/Sat",
+"time":"10:30 PM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Lazio",
+"ateam":"Hellas Verona",
+"link":
+[ 
+{ "type": "SD",
+ "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8?hdnts=exp=1662851678~acl=/may3SD*~hmac=c44c77ac291f040ed3b9b5991554007faad80b811c5f1d2595331c658a1f6cae" },
+
+ { "type": "HD", 
+"livelink":"https://pullalilive.livnvess.com/live/stream-161243.m3u8?auth_key=1662848303-0-0-1d8d4cc02308f299323029869009712e"
+     } 
+
+       ]  
+
+             },
+ 
+  {"league":"Laliga",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
+"adslink":"https://google.com",
+"date":"Sep 10/Sat",
+"time":"11:00 PM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Getafe",
+"ateam":"Real Sociedad",
 "link":
 [ 
 { "type": "SD",
