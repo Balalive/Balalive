@@ -6,7 +6,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 14/Sat",
-"time":"live",
+"time":"ပွဲပြီး",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10156_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -29,7 +29,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 14/Sat",
-"time":"live",
+"time":"ပွဲပြီး",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9728_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9925_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -59,11 +59,11 @@
 "ateam":"Napoli",
 "link":
 [ 
-{ "type": "SD",
- "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may81/may81@456.m3u8" },
+{ "type": "SD ဖြင့်ကြည့်ရန်",
+ "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may12/may12@456.m3u8" },
 
- { "type": "HD", 
-"livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1662921803-0-0-829d43cc5675ba027f4e246fbba04007"
+ { "type": "HD ဖြင့်ကြည့်ရန်", 
+"livelink":"https://pullalilive.livnvess.com/live/stream-144861.m3u8?auth_key=1663202424-0-0-213a2117d67e265c72c4279de73e09db"
      }   
        ]  
 
