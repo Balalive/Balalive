@@ -19,7 +19,13 @@
 
  { "type": "HD", 
 "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1663280604-0-0-b671c362480878c32d62f7b5cc92b678"
-     }   
+     },
+ { "type": "China1", 
+"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663344764-0-0-b95382cc6dcf5e56b064ff6146b393a1"
+     },
+ { "type": "China2", 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-yy1616.m3u8?auth_key=1663272616-0-0-a5337ccb47b85b973bc06da077e9c695"
+     }         
        ]  
 
              },
