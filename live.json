@@ -37,7 +37,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 17/Sat",
-"time":"6:30 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -46,10 +46,10 @@
 "link":
 [ 
 { "type": "SDဖြင့် ကြည့်ရန်",
- "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may111/may111@456.m3u8" },
+ "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may5/chunklist.m3u8" },
 
  { "type": "HDဖြင့် ကြည့်ရန်", 
-"livelink":"https://pullalilive.livnvess.com/live/stream-104776.m3u8?auth_key=1663280784-0-0-9b3f10d69b44164a1585a091453c035a"
+"livelink":"https://live-ak.vimeocdn.com/exp=1663419208~acl=%2F4bad1543-8bbd-4838-996b-d3b8f67505d3%2F%2A~hmac=f45147f49c9b6fe980995ddcc7055ce67c0c433fc0fb77e696ee8b49ddbd6855/4bad1543-8bbd-4838-996b-d3b8f67505d3/chunklist_b3256000.m3u8?max_segments=10"
      }   
        ]  
 
@@ -60,7 +60,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 17/Sat",
-"time":"7:30 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -69,9 +69,9 @@
 "link":
 [ 
 { "type": "SDဖြင့် ကြည့်ရန်",
- "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may111/may111@456.m3u8" },
+ "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may51/chunklist.m3u8" },
 
- { "type": "Chinaဖြင့် ကြည့်ရန်", 
+ { "type": "မရသေးပါ", 
 "livelink":"https://standard-pull.jpami.com/sm/10021_905568_lhd.m3u8?auth_key=1663441379-0-0-e12a2ae56a355e0d57877c7afad895b4"
      }   
        ]  
