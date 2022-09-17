@@ -6,7 +6,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 17/Sat",
-"time":"6:00 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -15,16 +15,19 @@
 "link":
 [ 
 { "type": "SDဖြင့် ကြည့်ရန်",
- "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/chunklist.m3u8" },
+ "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8" },
 
  { "type": "HD ဖြင့်ကြည့်ရန်", 
-"livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/123HD/123HD@456.m3u8"
+"livelink":"https://live-ak.vimeocdn.com/exp=1663415608~acl=%2F8f498909-994d-4563-9bca-b9094ac64e39%2F%2A~hmac=1fcce9844a362d6c72fd59b5a269bcfd13ec5609913e55a33c6c41296a79c7f3/8f498909-994d-4563-9bca-b9094ac64e39/chunklist_b6256000.m3u8?max_segments=10"
      },
  { "type": "China1ဖြင့် ကြည့်ရန်", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663437449-0-0-10cbae551173e80a740e97a8b640858f"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1663431676-0-0-b80dadea9023f3a6cba66c70a97f0811"
      },
  { "type": "China2ဖြင့် ကြည့်ရန်", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-37723410.m3u8?auth_key=1663360876-0-0-ef58c02e96a2ab9623b2f59e34899571"
+"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663498528-0-0-5a7559125c4fa293e1ef11ff1878c9ff"
+     },
+ { "type": "Eng FHD ဖြင့်ကြည့်ရန်", 
+"livelink":"https://video-weaver.sin04.hls.live-video.net/v1/playlist/Cp4FJzM7b7N-SzcmY98ZjbRf1-kbSmYWcQNO-oUnr5rLUYv91K2SeHLXQy_l939JrgjUFSbf2ZJGS8RFei8OG1BYXcS-IdR08am4o7KnMgoiLUDMOdM1MpNBoWM35SzndqKub-vWmJkPA-HlT1iJJcl4nN8KtruxcQOjUL20deTlG8bDjraJWkX2lA9iNUqBG6TKtODFBzSXJvlfspy1UaQXzC4SkMaIqvYjDl_DLGLKDdbVBB--gGNYluHAMbsszATHOuaBpk8G22urJWgAUkWY_IbWHUrOKe9ZVf2Hh_RtJ6Wp8U8gyL8emzBB6dLdTAPhe6mjGak29avWj7QDx7Zr3reSiBU7mis0sm3TmlTSLQkemdIMPm8jxQfc9DXrqkkyVuatEWOKlWEa7yZZf5JkYZTcOsBuQ4dUYrTT1TEZCMFb8OTIZHZR-aCNEkHrEQJgwSTB1-V0gPcozkc9pVuOgMpscQZVHeUy5l8O1JYsPbjTUQg36BCuZNLSY37WZr4rgpZ-klpggJa3WBPFf-udwnp7WXMogx3I1X8JWhRGFu9iAO5r4O68LLeMDUG-JJIOEvGdkQ4HGc45sWibU853U6hLYVrEA7gXeHaALvWKJgjrSqF4nDUiJL0WTwxJPRLz_-B2l_JcolWCOilEdYnsfCwS1KAgxtkECBJANdrk7wOpuDQkIu94QEVb5qOE9WlU3D3NYZGHsVRmE03BP4fjkp8dds4cOyqe7c3DuqmraT0WEP7ce9hvvsT83BAOO-w_baZQhSZA_4m15ZEQC3Ky2SA_M3RIv669YAzoyhCa7hHJz3m_ovxHXj_9BuxvlLxB2196I3ufHW8Qjv-NpL0HxUCm1-KsDB09KihVl4wRaK0erxz77Vk8qVLBo4bQIhoMfWhHB_bYdFwhft5iIAEqCXVzLWVhc3QtMjDXBA.m3u8"
      }         
        ]  
 
