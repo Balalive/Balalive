@@ -297,7 +297,7 @@
 "link":
 [ 
 { "type": "SDဖြင့် ကြည့်ရန်",
- "livelink":"https://live-ak.vimeocdn.com/exp=1663435647~acl=%2F4bad1543-8bbd-4838-996b-d3b8f67505d3%2F%2A~hmac=ec7b21e022c515b680dda95c18a4a645c6e737f0d089fd0b3601b4bd42934d15/4bad1543-8bbd-4838-996b-d3b8f67505d3/chunklist_b2056000.m3u8?max_segments=10&min_seconds=30" },
+ "livelink":"https://live-ak.vimeocdn.com/exp=1663440726~acl=%2F4bad1543-8bbd-4838-996b-d3b8f67505d3%2F%2A~hmac=aa2e12820c20e31aa59beabb33c1b12c05f18c723721fd5c7df955ca8344dfe2/4bad1543-8bbd-4838-996b-d3b8f67505d3/chunklist_b2056000.m3u8" },
 
  { "type": "HDဖြင့် ကြည့်ရန်", 
 "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may111/may111@456.m3u8"}
