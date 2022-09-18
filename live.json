@@ -257,55 +257,15 @@
              },
  
  
-   {"league":"Bundesliga",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
-"adslink":"https://google.com",
-"date":"Sep 18/Sat",
-"time":"10:00 PM",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"VfL Bochum",
-"ateam":"FC Köln",
-"link":
-[ 
-{ "type": "SDဖြင့် ကြည့်ရန်",
- "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may5/chunklist.m3u8" },
 
- { "type": "HDဖြင့် ကြည့်ရန်", 
-"livelink":"0"
-     }   
-       ]  
-
-             },
  
- {"league":"Serie A",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
-"adslink":"https://google.com",
-"date":"Sep 18/Sat",
-"time":"10:30 PM",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Roma",
-"ateam":"Atalanta",
-"link":
-[ 
-{ "type": "SDဖြင့် ကြည့်ရန်",
- "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may5/chunklist.m3u8" },
 
- { "type": "HDဖြင့် ကြည့်ရန်", 
-"livelink":"0"
-     }   
-       ]  
-
-             },
  
  {"league":"Laliga",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 18/Sat",
-"time":"11:00 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -314,10 +274,10 @@
 "link":
 [ 
 { "type": "SDဖြင့် ကြည့်ရန်",
- "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may5/chunklist.m3u8" },
+ "livelink":"https://standard-pull.jpami.com/sm/10021_866196_lhd.m3u8?auth_key=1663603962-0-0-7b94a67201642d669d06043c3cbe5441" },
 
  { "type": "HDဖြင့် ကြည့်ရန်", 
-"livelink":"0"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428436_lhd.m3u8?auth_key=1663601024-0-0-07bbe06456333e22b67b1b8217d35944"
      }   
        ]  
 
@@ -327,7 +287,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 18/Sat",
-"time":"11:00 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -336,10 +296,10 @@
 "link":
 [ 
 { "type": "SDဖြင့် ကြည့်ရန်",
- "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may5/chunklist.m3u8" },
+ "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/chunklist.m3u8" },
 
  { "type": "HDဖြင့် ကြည့်ရန်", 
-"livelink":"0"
+"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663599498-0-0-b69daa67c8b30579e534f2bb18261bd6"
      }   
        ]  
 
