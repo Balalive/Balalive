@@ -11,10 +11,8 @@
 "ateam":"Inter",
 "link":
 [ 
-{ "type": "SD1ဖြင့် ကြည့်ရန်",
+{ "type": "SDဖြင့် ကြည့်ရန်",
  "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8" },
-{ "type": "SD2ဖြင့် ကြည့်ရန်",
- "livelink":"https://live-ak.vimeocdn.com/exp=1663499678~acl=%2F075e2c2d-4074-4070-8f4f-e4b37b84332f%2F%2A~hmac=20709335fb7127da98389a72e28d7d41d104d83c6e60b8f21338931b85bd7aa4/075e2c2d-4074-4070-8f4f-e4b37b84332f/chunklist_b728000.m3u8?max_segments=10" },
 { "type": "HDဖြင့် ကြည့်ရန်",
  "livelink":"https://video-weaver.sin04.hls.live-video.net/v1/playlist/CqMFLvGnJ0hX09eWPkCu9gQAEfJepaLByCMZzKyvPxAuyiaEKvL65HD6JjD64NLSgd5Ia_gh3Vr7CcU_0a9mhDSyePDmiICjxxK4mCuT2WJzb9TOIdGeTDWx9sJ6pWA32g_NyYTe-AweIj_lnBVvDkaMh7Ya7RgFvmFAPA62sqEHgE88fe82mH4-yOkCBQ8T-Txi1XoGgaUS3Fbj31zfM8hoC_sw_nsm9WU7UMEQevfC2pDFsRB19hXOUcqq4g3Y6kMRW2ypBQWsN_8ue44MPwtbzEERQBYr9kFQ6c56X42ifNxwozAaqBQO7qdq4inJLWTurHqkcVYEPN2uqKDsmM1Op0QbA9fmbo9Xp0438GocmkjnOWW2UGOkjQwoHPioscW6U-UHiQIoWbyQT5ZO8v-ItYVRn5SO61znk0j9nPpS90oqyoCyRx5BJ2U2x86WwZS1THaSWY37x2g9_lOT5B-4_fu7XoXbjB84UV4DUkWCX8rfBkeG7XQntOCbqu9-Wg9OYT_x6416ihg0PLf5WNz785TNGIhnLJnYFnSdsh67va86oLdYuLy342SWXoKNxJqL0rarsQYAI37C2RZY1zZJT_lkXNjlq6-TBHJ4shtiEnFXGh4Rpr-VRTc34oPDgQCvH2S61oPxmjXGHa1QAqX1Pk3M2oSxZGQOHgrQzQMZqStGNp1gtQOpKIC6zUnf_rtQpYX4OpYjvPgixypeVw4xHQJKdSujdJsFkPRX--hWNKDT1pHX1Eosoape44Lp9YZVF330kMBPVE0tqAbkLMOiSy6uPRtOVk8460KTSF10Ke9gR5oaj4p_79ZCUILCeZaxzimCPnpheKJzLj16BGmxMDbtTlh5NnmxOf4z3ma8Wz8A9xx6Xk-FNYwg_bqyca4106MDGgyyffXQwif8P-GwR1MgASoJdXMtd2VzdC0yMNkE.m3u8" },
  { "type": "FHDဖြင့် ကြည့်ရန်", 
@@ -37,12 +35,9 @@
 "ateam":"Arsenal",
 "link":
 [ 
-{ "type": "SD1ဖြင့် ကြည့်ရန်",
+{ "type": "SDဖြင့် ကြည့်ရန်",
  "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8" },
 
- { "type": "SD2ဖြင့်ကြည့်ရန်", 
-"livelink":"https://live-ak.vimeocdn.com/exp=1663501201~acl=%2F557ed893-e467-4c16-9fbd-f4ef0a67f849%2F%2A~hmac=cf5b3e83f97f73b6b94744912dc82eee64a194c469cbb788f603586b8fa13d96/557ed893-e467-4c16-9fbd-f4ef0a67f849/chunklist_b728000.m3u8?max_segments=10&min_seconds=30"
-     },
  { "type": "Chinaဖြင့် ကြည့်ရန်", 
 "livelink":"https://standard-pull.jpami.com/sm/10021_428439_lhd.m3u8?auth_key=1663583278-0-0-b7be062bbaf96c524b382043ec077d6f"
      },
