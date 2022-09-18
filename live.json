@@ -60,7 +60,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 18/Sat",
-"time":"5:30 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -68,21 +68,18 @@
 "ateam":"Monaco",
 "link":
 [ 
-{ "type": "SDဖြင့် ကြည့်ရန်",
- "livelink":"0" },
+{ "type": "link1ဖြင့် ကြည့်ရန်",
+ "livelink":"https://live-ak.vimeocdn.com/exp=1663501862~acl=%2F21c42403-2eb6-4358-9aa9-7ecc7e02ae37%2F%2A~hmac=7c8dcd60705948cdd16873594d4f25e84e7a3d5d1b69486af0b35910a13a6b6a/21c42403-2eb6-4358-9aa9-7ecc7e02ae37/chunklist_b2056000.m3u8?min_seconds=30" },
 
- { "type": "HD ဖြင့်ကြည့်ရန်", 
-"livelink":"0"
+ { "type": "link2ဖြင့်ကြည့်ရန်", 
+"livelink":"https://live.vimeocdn.com/1663501884-0x1e38e3582a590586db20bf3401148116d1ce3313/21c42403-2eb6-4358-9aa9-7ecc7e02ae37/chunklist_b3256000.m3u8"
      },
  { "type": "China1ဖြင့် ကြည့်ရန်", 
-"livelink":"0"
+"livelink":"https://standard-pull.jpami.com/sm/10021_862974_lhd.m3u8?auth_key=1663583856-0-0-593b37bc3b9aae24d2792a4c0f1da605"
      },
  { "type": "China2ဖြင့် ကြည့်ရန်", 
-"livelink":"0"
-     },
- { "type": "Eng FHD ဖြင့်ကြည့်ရန်", 
-"livelink":"0"
-     }         
+"livelink":"https://standard-pull.jpami.com/sm/10021_831956_lhd.m3u8?auth_key=1663583774-0-0-ef801d988cc0a9058b60c29399f0a633"
+     }        
        ]  
 
              },
