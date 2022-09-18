@@ -29,7 +29,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Sep 18/Sat",
-"time":"5:30 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -37,20 +37,20 @@
 "ateam":"Arsenal",
 "link":
 [ 
-{ "type": "SDဖြင့် ကြည့်ရန်",
- "livelink":"0" },
+{ "type": "SD1ဖြင့် ကြည့်ရန်",
+ "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8" },
 
- { "type": "HD ဖြင့်ကြည့်ရန်", 
-"livelink":"0"
+ { "type": "SD2ဖြင့်ကြည့်ရန်", 
+"livelink":"https://live-ak.vimeocdn.com/exp=1663501201~acl=%2F557ed893-e467-4c16-9fbd-f4ef0a67f849%2F%2A~hmac=cf5b3e83f97f73b6b94744912dc82eee64a194c469cbb788f603586b8fa13d96/557ed893-e467-4c16-9fbd-f4ef0a67f849/chunklist_b728000.m3u8?max_segments=10&min_seconds=30"
      },
- { "type": "China1ဖြင့် ကြည့်ရန်", 
-"livelink":"0"
+ { "type": "Chinaဖြင့် ကြည့်ရန်", 
+"livelink":"https://standard-pull.jpami.com/sm/10021_428439_lhd.m3u8?auth_key=1663583278-0-0-b7be062bbaf96c524b382043ec077d6f"
      },
- { "type": "China2ဖြင့် ကြည့်ရန်", 
-"livelink":"0"
+ { "type": "HDဖြင့် ကြည့်ရန်", 
+"livelink":"https://video-weaver.sin04.hls.live-video.net/v1/playlist/CqAFfgB0nfdnSI_ic91Dl9OoBS60U5GWhUhhuQGHd21c5Q41JzQoscjMxlx7ghovNQEs8WztWg7rMQvdf4RYXweEpvpeGO1oMT2_3y-SpsojO6kTAPewONkBhA7DMPQwnwrh6IbDkccOqlJ7rilWVaoeOX9cG6bsGnH3oNqmVt1Rx3fxz5h6Ey3TNAodW7ZxJFVmeo67HaIY7jkx3CPotCkPSmvGQmfXlhMxqMk5DYhQ05eXL17m-yC25Mspf2Sx5wJM9GziTD1ST45KTiOXx3HkcYQqcMkcioy4lwarZdoxeDM5MErvDcV2x9TIWSxdOxMyvXXM9inYb2hKdLkxe57vLPP8Xrx-lxzQNuDszKDk0ty9RVrOPygxwnpaOOu1FieRXFV0lyVdOwKKg2qa_2WroR0_6foGSdWYd22WKedDw3g-Whr1ckFvNswZMcrpLAQ7eTEXwlUj-THwsXD40h9DVjqIkNhYgAiDv9bepq6RgGNQc2xfvkFNXLUO_ukmHel0XKalPJKS7mGKaK5pue-8L3Hpa3INiW0GCe0gDUB7fbqaNy-hX-Nad7dUJ6nJj72r912MwSWA7NCYZ1l5yLgdMBrBIahY7vMUeAisl7iyzxgDUXdFbQlKm5jpkd3O3wque5wdePfqB820Rz9tpO7lAildu5V9XuaJBLpPePj1Z1QBzoY1UVSb-esk_lNMpKR3Rozd1zD_EFGjBys_x3vNDgVnHJkVfhJWWQFQXfBF9IJ_1WXP9-ufm77h62MdUz8tH0Rqu4M6EHqZ0YRxDWFE4N4DZ8AgKZ7tlOGu1WsX86JHvLxn2ihVa7_Ls_WDgF6hTj90j3FGaYN4aHa1kdWDU-oSgYWGlmkcSz6BQ35D5ih7j9D9TmT5pVrolOxeNedMGgw5W3mfaXrr4JmdzHIgASoJdXMtZWFzdC0yMNgE.m3u8"
      },
  { "type": "Eng FHD ဖြင့်ကြည့်ရန်", 
-"livelink":"0"
+"livelink":"https://video-weaver.sin04.hls.live-video.net/v1/playlist/CpIFjZBiUz7zmFRmi_dnxWIH3Z-yVIdSS-8FGxWv7K8Q_sADRWJvF4yhOSYsMf9Q4XISCLvQsfDrmwu_MtS-ONUG8Yum1TzeaEPFZd-EtNbXySrAnDmgt_O_odow27HKyOhNGgS7L-apc9G8nwHQHqn51dpB89QPVhTd2c63ntq4xD4sy2Gjfbwjf3iyasMtgGD8AekGAc0v6f49fMDKIcQy2le6LlLUlcrgUbnWZJI2QEe-37UJ4qC5IhwEU2UtkrHuagoygtki__UuG8gCwcAVfOmpN6C2YXw5FSABSaGxU5H0GL51DUGUVhcuTQy9sWxs3ntWTR8qqIzNxMpfn_JKaWPBIO565tmtvUxc7R85ca4xgIdHFtZvyYzY-EebdIUcqgPElu3ymTwRgfKN1nrAqEMDZStKS1Stv71ongOf26VSIyRRLLJrUqYjrgQbalX95kRIeXsGPfcTBTXVphQi8d7NVEvCtKE_nMtOj5VZDFAbk-SacQLvGdzeVcLvQGZ-7_Evjdjgm1eZoLRFcMMhNLl0mxQrHXltKTbwrQRO4fUdLRhiKuCv84VRUd6_xtmooMCmDRrfrrlrwEJywRu5DOPhrKoDK5Aw612kzw3aek37_H0T9erGV9l4L0zKDD_Fs3Bco4PUB8yHUPPC3HnZis_wetOFOaQCFfDGkYzo1_v1eu0Cxj0SnAeZM6VrHu_LmXbQ_p0dl4Mc-gjNq3no1y64UslAyHzJPgQsFrNQ1q4ZHWLTrrFU0lMsEaajI793_wBNmEw3L94pw7V3gf7cv9BETM4XY3v3SxBJqHKDwZAUf7ZZkm3aS_h7qz-Qnw_deQBpbVhHxVliYHmZ_Ihmpx5rIMh838Tye7hDLleqRkWiJxoMzb3NeYpRXEA8NDjwIAEqCXVzLWVhc3QtMjDYBA.m3u8"
      }         
        ]  
 
