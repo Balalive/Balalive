@@ -36,8 +36,8 @@
 [ 
 { "type": "China HD",
  "livelink":"https://zplay.sxy2008.cn/live/44089810548614896159.m3u8" },
-{ "type": "Link HD",
-"livelink": "https://playlist.wasd.tv/live/1615944/tracks-v1a1/mono.m3u8" }
+{ "type": "Link SD",
+"livelink": "https://live-ak.vimeocdn.com/exp=1668264309~acl=%2Fd8ee59da-e556-4811-9c51-8c6a16cecdb6%2F%2A~hmac=92ca0ac2cec2bd00a0f46c5278b71f2d40b00c250c95e7c48ca0cfbc0cb2bec5/d8ee59da-e556-4811-9c51-8c6a16cecdb6/chunklist_b728000.m3u8" }
 
       ]
 },
