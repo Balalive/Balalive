@@ -3,7 +3,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"Nov 13/Sun",
-"time":"6:00 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -11,13 +11,13 @@
 "ateam":"Inter",
 "link":
 [ 
-{ "type": "Link 1(SD)",
- "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753796" },
-{ "type": "Link 2(FHD)",
-"livelink": "http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753794" },
-{ "type": "Link 3(HD)",
+{ "type": "China 1",
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_428429_lhd.m3u8?auth_key=1668423805-0-0-dd64792e91ff496b63e8ff4c1889b703" },
+{ "type": "China 2",
+"livelink": "https://standard-pull.qcllh.com/sm/10021_920573_lhd.m3u8?auth_key=1668423677-0-0-3abfa52151625c1502abd99a8148edde" },
+{ "type": "မရသေးပါ",
  "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1668276630-0-0-0d9922173fbf31186bc52e3c99c9f601" },
-{ "type": "Link 4(HD)",
+{ "type": "မရသေးပါ",
 "livelink": "https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1668276973-0-0-dfa3c29f6342c641ebb776397c274ee9" }
 
       ]
