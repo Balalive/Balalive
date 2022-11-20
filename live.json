@@ -1,32 +1,10 @@
 [
+
 {"league":"ကမ္ဘာ့ဖလား",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"20/11/2022",
 "time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"ဖွင့်ပွဲ",
-"ateam":"ဖွင့်ပွဲ",
-"link":
-[ 
-{ "type": "HD live",
- "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1668976291-0-0-858035fbe84523ae1bd35eb9874a5b0c" },
-{ "type": "မရသေးပါ",
-"livelink": "https://standard-pull.qcllh.com/sm/10021_920573_lhd.m3u8?auth_key=1668423677-0-0-3abfa52151625c1502abd99a8148edde" },
-{ "type": "မရသေးပါ",
- "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1668276630-0-0-0d9922173fbf31186bc52e3c99c9f601" },
-{ "type": "မရသေးပါ",
-"livelink": "https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1668276973-0-0-dfa3c29f6342c641ebb776397c274ee9" }
-
-      ]
-},
-{"league":"ကမ္ဘာ့ဖလား",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
-"adslink":"https://google.com",
-"date":"20/11/2022",
-"time":"10:30 PM",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/5902_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -35,13 +13,13 @@
 "link":
 [ 
 { "type": "China 1",
- "livelink":"https://standard-pull.qcllh.com/sm/10021_428437_lhd.m3u8?auth_key=1668426395-0-0-26aec12aa6310592a3db8396e0ab281b" },
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_428459_lhd.m3u8?auth_key=1669042342-0-0-95211a24be82985e653ec194ef3d6ead" },
 { "type": "China 2",
-"livelink": "https://zplay.sxy2008.cn/live/44173928364663019157.m3u8" },
-{ "type": "China 3",
- "livelink":"https://standard-pull.qcllh.com/sm/10021_649422_lhd.m3u8?auth_key=1668426035-0-0-fac93df01cda3f3be95f1bdd5bf84cec" },
-{ "type": "မရသေးပါ",
-"livelink": "https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1668276973-0-0-dfa3c29f6342c641ebb776397c274ee9" }
+"livelink": "https://standard-pull.qcllh.com/sm/10021_936819_lhd.m3u8?auth_key=1669041493-0-0-be35ad87696f4fc9f7baf96fb6e841e3" },
+{ "type": "ENG HD",
+ "livelink":"http://5.182.229.90:8080/6521/index.m3u8" },
+{ "type": "VEN HD",
+"livelink": "https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1667964543-0-0-3438760f7305ce2e41da2bciq1903jd8" }
 
       ]
 }
