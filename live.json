@@ -3,7 +3,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"20/11/2022",
-"time":"9 : 00 PM",
+"time":"Live",
 "himg":"https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
 "teams":"Leicester City Vs Manchester United",
@@ -11,9 +11,9 @@
 "ateam":"ဖွင့်ပွဲ",
 "link":
 [ 
-{ "type": "China 1",
- "livelink":"https://standard-pull.qcllh.com/sm/10021_428429_lhd.m3u8?auth_key=1668423805-0-0-dd64792e91ff496b63e8ff4c1889b703" },
-{ "type": "China 2",
+{ "type": "HD 1",
+ "livelink":"https://gahuiysuiwi.s3.amazonaws.com/hawks_720p.m3u8" },
+{ "type": "မရသေးပါ",
 "livelink": "https://standard-pull.qcllh.com/sm/10021_920573_lhd.m3u8?auth_key=1668423677-0-0-3abfa52151625c1502abd99a8148edde" },
 { "type": "မရသေးပါ",
  "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1668276630-0-0-0d9922173fbf31186bc52e3c99c9f601" },
