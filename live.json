@@ -1,14 +1,14 @@
 [
-{"league":"စီးရီးအေ",
+{"league":"ကမ္ဘာ့ဖလား",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
-"date":"2 : 3",
-"time":"ပွဲပြီး",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+"date":"20/11/2022",
+"time":"9 : 00 PM",
+"himg":"https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"Atalanta",
-"ateam":"Inter",
+"hteam":"ဖွင့်ပွဲ",
+"ateam":"ဖွင့်ပွဲ",
 "link":
 [ 
 { "type": "China 1",
@@ -22,16 +22,16 @@
 
       ]
 },
-{"league":"လီဂူး",
+{"league":"ကမ္ဘာ့ဖလား",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
-"date":"5 : 0",
-"time":"ပွဲပြီး",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
+"date":"20/11/2022",
+"time":"10:30 PM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/5902_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"PSG",
-"ateam":"Auxerre",
+"hteam":"Qatar",
+"ateam":"Ecuador",
 "link":
 [ 
 { "type": "China 1",
@@ -44,78 +44,8 @@
 "livelink": "https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1668276973-0-0-dfa3c29f6342c641ebb776397c274ee9" }
 
       ]
-},
-  {"league":"ပရီးမီးယားလိဂ်",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
-"adslink":"https://google.com",
-"date":"1 : 2",
-"time":"ပွဲပြီး",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Brighton",
-"ateam":"Aston Villa",
-"link":
-[ 
-{ "type": "China 1",
- "livelink":"https://standard-pull.qcllh.com/sm/10021_428429_lhd.m3u8?auth_key=1668432541-0-0-0228c834141094150c2460fc16dff861" },
-{ "type": "China 2",
-"livelink": "https://zplay.sxy2008.cn/live/44174244257277108773.m3u8" },
-{ "type": "China 3",
- "livelink":"https://standard-pull.qcllh.com/sm/10021_428459_lhd.m3u8?auth_key=1668432340-0-0-40426bc465a2ed5f656fa85da5b8424c" },
-{ "type": "မရသေးပါ",
-"livelink": "https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1668276973-0-0-dfa3c29f6342c641ebb776397c274ee9" }
-
-      ]
-},
-
-{"league":"စီးရီးအေ",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
-"adslink":"https://google.com",
-"date":"1 : 1",
-"time":"ပွဲပြီး",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Roma",
-"ateam":"Torino",
-"link":
-[ 
-{ "type": "China 1",
- "livelink":"https://standard-pull.qcllh.com/sm/10021_920573_lhd.m3u8?auth_key=1668432445-0-0-1908a933d59e5b519f63c553e8dc120b" },
-{ "type": "China 2",
-"livelink": "https://standard-pull.qcllh.com/sm/10021_428415_lhd.m3u8?auth_key=1668432343-0-0-d1482b341648a0c4e8bd84d00d0f751c" },
-{ "type": "မရသေးပါ",
- "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1668276630-0-0-0d9922173fbf31186bc52e3c99c9f601" },
-{ "type": "မရသေးပါ",
-"livelink": "https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1668276973-0-0-dfa3c29f6342c641ebb776397c274ee9" }
-
-      ]
-},
-
-{"league":"ပရီးမီးယားလိဂ်",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
-"adslink":"https://google.com",
-"date":"1 : 2",
-"time":"ပွဲပြီး",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Fulham",
-"ateam":"Man U",
-"link":
-[ 
-{ "type": "Link 1(SD)",
- "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/749492" },
-{ "type": "Link 2(HD)",
-"livelink": "https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1668330630-0-0-956d7211c0eb075bb904d9055b84d983" },
-{ "type": "Link 3(HD)",
- "livelink":"http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/89335" },
-{ "type": "Link 4(SD)",
-"livelink": "https://pullalilive.livnvess.com/live/stream-147801_ld.m3u8?auth_key=1668330630-0-0-e8fbf5e970ed7b9e81a66e111088c02d" }
-
-      ]
 }
+
 
       
 
