@@ -3,13 +3,37 @@
 {"league":"ကမ္ဘာ့ဖလား",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
-"date":"0 : 2",
-"time":"ပွဲပြီး",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/5902_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",
+"date":"21/11/2022",
+"time":"၇:၃၀ (ည)",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"Qatar",
-"ateam":"Ecuador",
+"hteam":"အင်္ဂလန်",
+"ateam":"အီရန်",
+"link":
+[ 
+{ "type": "China 1",
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_428459_lhd.m3u8?auth_key=1669042342-0-0-95211a24be82985e653ec194ef3d6ead" },
+{ "type": "China 2",
+"livelink": "https://standard-pull.qcllh.com/sm/10021_936819_lhd.m3u8?auth_key=1669041493-0-0-be35ad87696f4fc9f7baf96fb6e841e3" },
+{ "type": "ENG HD",
+ "livelink":"http://5.182.229.90:8080/6521/index.m3u8" },
+{ "type": "VEN HD",
+"livelink": "https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1667964543-0-0-3438760f7305ce2e41da2bciq1903jd8" }
+
+      ]
+},
+
+{"league":"ကမ္ဘာ့ဖလား",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
+"adslink":"https://google.com",
+"date":"21/11/2022",
+"time":"၁၀:၃၀ (ည)",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"ဆီနီဂေါ",
+"ateam":"နယ်သာလန်",
 "link":
 [ 
 { "type": "China 1",
@@ -23,6 +47,7 @@
 
       ]
 }
+
 
 
       
