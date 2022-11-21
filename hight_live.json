@@ -12,12 +12,12 @@
 "ateam":"Man U",
             "hllink": [
 {
-           "quality":"SD ဖြင့်ကြည့်ရန်",
-           "link":"8"
+           "quality":"HD ဖြင့်ကြည့်ရန်",
+           "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/20/152/240653/360p.m3u8"
 },
                         
-   {    "quality":"HD ဖြင့်ကြည့်ရန်",
-         "link":"8"
+   {    "quality":"SD ဖြင့်ကြည့်ရန်",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/20/152/240653/360p.m3u8"
 }
 ]
 }
