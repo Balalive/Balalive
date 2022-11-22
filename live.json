@@ -28,7 +28,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"22/11/2022",
-"time":"live",
+"time":"0 : 0",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/6719_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -52,7 +52,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"22/11/2022",
-"time":"၁၀:၃၀ (ည)",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/6710_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -61,13 +61,13 @@
 "link":
 [ 
 { "type": "China 1",
- "livelink":"https://standard-pull.qcllh.com/sm/10021_920655_lhd.m3u8?auth_key=1669142135-0-0-e6a93557033fee5330648d9447833314" },
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_428429_lhd.m3u8?auth_key=1669215680-0-0-b2074acfcd111e027318c448aedb7687" },
 { "type": "China 2",
-"livelink": "https://standard-pull.qcllh.com/sm/10021_920573_lhd.m3u8?auth_key=1669140328-0-0-fcaf04ad559a62cd100728d1d237363a" },
+"livelink": "https://zplay.sxy2008.cn/live/45039074486808582566.m3u8" },
 { "type": "China 3",
- "livelink":"https://zplay.sxy2008.cn/live/44945537254594922795.m3u8" },
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_916158_lhd.m3u8?auth_key=1669217948-0-0-54b337308ef711e770cea9626c50e39b" },
 { "type": "VEN HD",
-"livelink": "https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1668990325-0-0-24c648f4a08f637686b940c13353e576" }
+"livelink": "https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669086217-0-0-9f932a17e9324bf5d68aeefcd63ce75e" }
 
       ]
 },
