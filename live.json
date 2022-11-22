@@ -4,7 +4,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"22/11/2022",
-"time":"၄:၃၀ (ညနေ)",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/7795_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -12,13 +12,13 @@
 "ateam":"ဆော်ဒီ",
 "link":
 [ 
-{ "type": "China 1",
- "livelink":"https://standard-pull.qcllh.com/sm/10021_862974_lhd.m3u8?auth_key=1669120819-0-0-10f13df03df82f6b7e6b333062510ce6" },
-{ "type": "China 2",
-"livelink": "https://zplay.sxy2008.cn/live/45014057234406525457.m3u8" },
-{ "type": "China 3",
- "livelink":"https://standard-pull.qcllh.com/sm/10021_428408_lhd.m3u8?auth_key=1669117480-0-0-3086fdda27fd3e01bf16b3f73b079c5f" },
 { "type": "VEN HD",
+ "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1669086499-0-0-20883ebdb2e81cb56db26c0e41899647" },
+{ "type": "မရသေးပါ",
+"livelink": "https://zplay.sxy2008.cn/live/45014057234406525457.m3u8" },
+{ "type": "မရသေးပါ",
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_428408_lhd.m3u8?auth_key=1669117480-0-0-3086fdda27fd3e01bf16b3f73b079c5f" },
+{ "type": "မရသေးပါ",
 "livelink": "https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1668990866-0-0-0d0b615476c93f003cf27a1124611be9" }
 
       ]
