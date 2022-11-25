@@ -85,10 +85,10 @@
  "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669173931-0-0-236dea16e5079f72c1b2d51d6af82c63" },
 { "type": "China 1",
 "livelink": "https://standard-pull.qcllh.com/sm/10021_428419_lhd.m3u8?auth_key=1669487425-0-0-369b5ee740f55c15a65c9f0f1ba6fdf2" },
-{ "type": "China 2",
- "livelink":"https://zplay.sxy2008.cn/live/45296315361208073985.m3u8" },
-{ "type": "China 3",
-"livelink": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.m3u8?auth_key=1669487247-0-0-b6a2448cf4f560d4654ccdeec8bca2b7" }
+{ "type": "ENG HD",
+ "livelink":"https://lisa.xonthebeach.net/live/fs1us/index.m3u8" },
+{ "type": "ENG SD",
+"livelink": "https://lisa.xonthebeach.net/live/fs1us/index.m3u8" }
 
       ]
 }
