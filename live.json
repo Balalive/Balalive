@@ -59,6 +59,8 @@
 "ateam":"အီကွေဒေါ",
 "link":
 [ 
+{ "type": "China HD",
+"livelink": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1669413622-0-0-44e0389cae7c5f660e0f6ecde16b32e8" },
 { "type": "Ven HD",
 "livelink": "https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669173931-0-0-236dea16e5079f72c1b2d51d6af82c63" }
 
