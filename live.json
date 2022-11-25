@@ -79,7 +79,9 @@
 "ateam":"အမေရိကန်",
 "link":
 [ 
-{ "type": "Ven HD",
+{ "type": "Ven HD1",
+ "livelink":"https://live-ali4.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8" },
+{ "type": "Ven HD2",
  "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669173931-0-0-236dea16e5079f72c1b2d51d6af82c63" },
 { "type": "China 1",
 "livelink": "https://standard-pull.qcllh.com/sm/10021_428419_lhd.m3u8?auth_key=1669487425-0-0-369b5ee740f55c15a65c9f0f1ba6fdf2" },
