@@ -4,7 +4,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"26/11/2022",
-"time":"၄:၃၀ (ညနေ)",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/6719_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -13,12 +13,12 @@
 "link":
 [ 
 
-{ "type": "china 1",
-"livelink": "https://standard-pull.qcllh.com/sm/10021_428408_lhd.m3u8?auth_key=1669453817-0-0-f93095310032c13aa5c3bd82534d0c14" },
-{ "type": "china 2",
- "livelink":"https://zplay.sxy2008.cn/live/45344689039992764819.m3u8" },
-{ "type": "China 3",
-"livelink": "https://standard-pull.qcllh.com/sm/10021_778166_lhd.m3u8?auth_key=1669455584-0-0-0b57fc854a7c1dfa91207c4c0d9bc529" }
+{ "type": "Eng HD1",
+"livelink": "https://lisa.xonthebeach.net/live/fs1us/index.m3u8" },
+{ "type": "ENG HD2",
+ "livelink":"https://lisa.xonthebeach.net/live/fs1us_720p/index.m3u8" },
+{ "type": "Ven 1",
+"livelink": "https://live-ali4.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8" }
 
       ]
 },
