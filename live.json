@@ -17,13 +17,13 @@
 [ 
 { "type": "Ven HD1",
 "livelink": "https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669173931-0-0-236dea16e5079f72c1b2d51d6af82c63" },
-{ "type": "Weit"
-"livelink": "https://canyou.letmestreamyou.net/live/fs1us_720p/index.m3u8" },
-{ "type": "Weit",
-"livelink": "https://live-ali4.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8" },
+{ "type": "China 1"
+"livelink": "https://standard-pull.qcllh.com/sm/10021_428429_lhd.m3u8?auth_key=1669648716-0-0-55af5cbed0173537769ba4d850489f6b" },
+{ "type": "China 2",
+"livelink": "https://zplay.sxy2008.cn/live/45468436097191233976.m3u8" },
 
-{ "type": "Weit",
-"livelink": "https://yeszet1x1cdn22.streamingrdp.com/livbp2/e..bp2/chunks.m3u8?nimblesessionid=8502495" }
+{ "type": "China 3",
+"livelink": "https://standard-pull.qcllh.com/sm/10021_428459_lhd.m3u8?auth_key=1669647850-0-0-7a127aebbaa0c7f3050b5900e397a80f" }
 
       ]
 },
