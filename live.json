@@ -21,11 +21,11 @@
  "livelink":"https://standard-pull.qcllh.com/sm/10021_428459_lhd.m3u8?auth_key=1669658405-0-0-38cfa5d476707781fe5f0f4e9ad95d67" },
 { "type": "China 2",
  "livelink":"https://zplay.sxy2008.cn/live/45469088634871353633.m3u8" },
-{ "type": "China 3",
-"livelink": "https://jn7vb358739ewkxz.cdnexpress23.net:8443/hls/hh2qwzit8rc.m3u8?s=2vlnM_rVd3D9ugH4-qzqtA&e=1669596503" },
+{ "type": "ENG HD1",
+"livelink": "https://playing.smoothlikebutterstream.com/live/fs1us_720p/index.m3u8" },
 { "type": "VEN HD",
  "livelink":"https://live-ali4.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8" },
-{ "type": "ENG HD",
+{ "type": "ENG HD2",
 "livelink": "https://playing.whydontyoustreamwme.com/live/bbconeuk_720p/index.m3u8" }
 
       ]
