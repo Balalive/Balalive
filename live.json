@@ -17,9 +17,9 @@
 "livelink": "https://live-ali4.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8" },
 { "type": "link1",
  "livelink":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8" },
-{ "type": "ENG SD",
-"livelink": "https://2playing.score911.cc/live/vb_itvuk_360p/playlist.m3u8" },
 { "type": "ENG HD",
+"livelink": "https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8" },
+{ "type": "Weit",
 "livelink": "https://playing.smoothlikebutterstream.com/live/itvuk_720p/index.m3u8" }
 
       ]
