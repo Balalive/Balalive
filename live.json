@@ -3,36 +3,13 @@
 
 
 
-{"league":"World Cup",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
-"adslink":"https://google.com",
-"date":"27/11/2022",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10155_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/5810_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Croatia",
-"ateam":"Canada",
-"link":
-[ 
-{ "type": "Ven HD1",
-"livelink": "https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669173931-0-0-236dea16e5079f72c1b2d51d6af82c63" },
-{ "type": "China 1",
-"livelink": "https://standard-pull.qcllh.com/sm/10021_428429_lhd.m3u8?auth_key=1669648716-0-0-55af5cbed0173537769ba4d850489f6b" },
-{ "type": "China 2",
-"livelink": "https://zplay.sxy2008.cn/live/45468436097191233976.m3u8" },
 
-{ "type": "China 3",
-"livelink": "https://standard-pull.qcllh.com/sm/10021_428459_lhd.m3u8?auth_key=1669647850-0-0-7a127aebbaa0c7f3050b5900e397a80f" }
-
-      ]
-},
 
 {"league":"World Cup",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"28/11/2022",
-"time":"130 (AM)",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -40,16 +17,16 @@
 "ateam":"Germany",
 "link":
 [ 
-{ "type": "Eng SD",
- "livelink":"https://yeszet1x1cdn22.streamingrdp.com/livbp2/e..bp2/chunks.m3u8?nimblesessionid=8656610" },
-{ "type": "ENG HD",
- "livelink":"https://2playing.score911.cc/live/vb_itvuk_360p/chunks.m3u8" },
+{ "type": "China 1",
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_428459_lhd.m3u8?auth_key=1669658405-0-0-38cfa5d476707781fe5f0f4e9ad95d67" },
+{ "type": "China 2",
+ "livelink":"https://zplay.sxy2008.cn/live/45469088634871353633.m3u8" },
+{ "type": "China 3",
+"livelink": "https://jn7vb358739ewkxz.cdnexpress23.net:8443/hls/hh2qwzit8rc.m3u8?s=2vlnM_rVd3D9ugH4-qzqtA&e=1669596503" },
 { "type": "VEN HD",
-"livelink": "https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669173931-0-0-236dea16e5079f72c1b2d51d6af82c63" },
-{ "type": "VEN SD",
  "livelink":"https://live-ali4.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8" },
-{ "type": "ENG SD2",
-"livelink": "https://2playing.score911.cc/live/vb_itvuk_360p/chunks.m3u8" }
+{ "type": "ENG HD",
+"livelink": "https://playing.whydontyoustreamwme.com/live/bbconeuk_720p/index.m3u8" }
 
       ]
 }
