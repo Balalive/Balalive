@@ -15,12 +15,12 @@
 [ 
 { "type": "Ven HD",
  "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669431351-0-0-daa8dc73bf2e2e0a1f4e8b10f278" },
-{ "type": "Weit",
-"livelink": "https://lisa.xonthebeach.net/live/fs1us/index.m3u8" },
-{ "type": "Weit",
- "livelink":"https://lisa.xonthebeach.net/live/fs1us/index.m3u8" },
-{ "type": "Weit",
-"livelink": "https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669172535-0-0-7b0ad1bad8097071eb70dbb4a23ebd66" }
+{ "type": "China1",
+"livelink": "https://standard-pull.qcllh.com/sm/10021_428437_lhd.m3u8?auth_key=1669636811-0-0-e53e5041fd0b585b6f7a44e6807187a4" },
+{ "type": "China2",
+ "livelink":"https://zplay.sxy2008.cn/live/45381748002938009811.m3u8" },
+{ "type": "China3",
+"livelink": "https://standard-pull.qcllh.com/sm/10021_428459_lhd.m3u8?auth_key=1669636600-0-0-a627c5dddea21a8f707c7ad56f6f482d" }
 
       ]
 },
