@@ -55,7 +55,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"28/11/2022",
-"time":"live",
+"time":"ပွဲပြီး",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/6717_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -81,7 +81,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"29/11/2022",
-"time":"1:30 (AM)",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -89,16 +89,16 @@
 "ateam":"Uruguay",
 "link":
 [ 
-{ "type": "China 1",
- "livelink":"0" },
-{ "type": "China 2",
- "livelink":"0" },
+{ "type": "China",
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_778166_lhd.m3u8?auth_key=1669746808-0-0-48a8996b7300418809158abdb2c52f58" },
+{ "type": "Ven HD1",
+ "livelink":"https://live-ali4.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8" },
 { "type": "ENG HD1",
-"livelink": "0" },
-{ "type": "VEN HD",
- "livelink":"0" },
+"livelink": "https://playing.goforfreedomwme.net/live/itvuk_720p/index.m3u8" },
+{ "type": "VEN HD2",
+ "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669431451-0-0-02e0fda5e24fef73f3ed876a3f1f" },
 { "type": "ENG HD2",
-"livelink": "0" }
+"livelink": "https://playing.goforfreedomwme.net/live/itvuk_720p/index.m3u8" }
 
       ]
 }
