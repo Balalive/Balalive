@@ -3,7 +3,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"30/11/2022",
-"time":"9:30 (PM)",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/6719_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -12,15 +12,15 @@
 "link":
 [ 
 { "type": "China 1",
- "livelink":"https://standard-pull.qcllh.com/sm/10021_428429_lhd.m3u8?auth_key=1669827923-0-0-089939b159ca0e8627e3c765c25c7434" },
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_936819_lhd.m3u8?auth_key=1669904887-0-0-2e3bb3783257d43617a5b81da43b5964" },
 { "type": "China 2",
- "livelink":"https://zplay.sxy2008.cn/live/45657331054236293314.m3u8" },
+ "livelink":"https://zplay.sxy2008.cn/live/45640483658707900713.m3u8" },
 { "type": "ENG HD1",
-"livelink": "https://playing.goforfreedomwme.net/live/fs1us_720p/index.m3u8" },
+"livelink": "https://playing.whydontyoustreamwme.com/live/bbconeuk_720p/index.m3u8" },
 { "type": "VEN HD",
- "livelink":"https://live.lwcdn.com/live/amlst:dUIYQ6kr_all/chunklist_b3028000.m3u8" },
+ "livelink":"https://live-ali4.tv360.vn/manifest/vtv2/playlist_720p.m3u8" },
 { "type": "ENG HD2",
-"livelink": "https://playing.tunnelcdnsw.net/live/fs1us/index.m3u8" }
+"livelink": "https://playing.smoothlikebutterstream.com/live/fs1us_720p/index.m3u8" }
 
       ]
 },
@@ -29,7 +29,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
 "date":"30/11/2022",
-"time":"9:30 (PM)",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -38,15 +38,15 @@
 "link":
 [ 
 { "type": "China 1",
- "livelink":"https://zplay.sxy2008.cn/live/45694628602563610280.m3u8" },
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_862974_lhd.m3u8?auth_key=1669905386-0-0-e3ea8557edb84792ebb7d832a31a1be0" },
 { "type": "China 2",
- "livelink":"https://standard-pull.qcllh.com/sm/10021_866196_lhd.m3u8?auth_key=1669833565-0-0-daa771c09443761d0f1d9eb73d3b900d" },
+ "livelink":"https://zplay.sxy2008.cn/live/45640512229944033641.m3u8" },
 { "type": "Ven HD",
 "livelink": "https://live-ali4.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8" },
 { "type": "ENG HD",
- "livelink":"https://playing.goforfreedomwme.net/live/fs2us_720p/index.m3u8" },
+ "livelink":"https://turnthe.gameon.tel/live/bbctwouk/index.m3u8" },
 { "type": "ENG HD2",
-"livelink": "https://playing.whydontyoustreamwme.com/live/fs2us/index.m3u8" }
+"livelink": "https://playing.smoothlikebutterstream.com/live/fs2us_720p/index.m3u8" }
 
       ]
 }
