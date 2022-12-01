@@ -15,12 +15,12 @@
  "livelink":"https://zplay.sxy2008.cn/live/45732999323914257544.m3u8" },
 { "type": "China 2",
  "livelink":"https://standard-pull.qcllh.com/sm/10021_968170_lhd.m3u8?auth_key=1669990456-0-0-bb85a56f8b55963e9aac8fe522cbd06a" },
-{ "type": "Weit",
-"livelink": "https://playing.goforfreedomwme.net/live/bbconeuk_720p/index.m3u8" },
+{ "type": "ENG HD",
+"livelink": "https://playing.smoothlikebutterstream.com/live/bbctwouk_720p/index.m3u8" },
 { "type": "VEN HD",
- "livelink":"https://live-ali4.tv360.vn/media-static/09ce11fd24/dac12e23-ebcc-4c69-aaf5-5b2b8d47c41f/720p-297606.ts" },
-{ "type": "Weit",
-"livelink": "https://turnthe.gameon.tel/live/fs1us/index.m3u8" }
+ "livelink":"https://live-ali4.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8" },
+{ "type": "ENG FHD",
+"livelink": "https://playing.whydontyoustreamwme.com/live/bbctwouk/index.m3u8" }
 
       ]
 },
@@ -43,10 +43,10 @@
  "livelink":"https://standard-pull.qcllh.com/sm/10021_649422_lhd.m3u8?auth_key=1669991591-0-0-847d95412090c9ef0c24394427c4fdf9" },
 { "type": "Ven HD",
 "livelink": "https://live-ali4.tv360.vn/manifest/vtv2/playlist_720p.m3u8" },
-{ "type": "Weit",
- "livelink":"https://playing.whydontyoustreamwme.com/live/bbctwouk_720p/index.m3u8" },
-{ "type": "Weit",
-"livelink": "https://playing.tunnelcdnsw.net/live/fs2us/index.m3u8" }
+{ "type": "ENG HD",
+ "livelink":"https://playing.whydontyoustreamwme.com/live/bbconeuk_720p/index.m3u8" },
+{ "type": "ENG FHD",
+"livelink": "https://playing.smoothlikebutterstream.com/live/bbconeuk/index.m3u8" }
 
       ]
 },
