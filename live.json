@@ -15,10 +15,10 @@
 "ateam":"France",
 "link":
 [ 
-{ "type": "China 1",
+{ "type": "China ",
  "livelink":"https://standard-pull.qcllh.com/sm/10021_905566_lhd.m3u8?auth_key=1670784540-0-0-ba69e5a8c8e36cf0519009db6de15b1a" },
-{ "type": "China 2",
- "livelink":"https://play1zb.hnyongshun.cn/live/46590040077119533640.m3u8" },
+{ "type": "ENG SD",
+ "livelink":"https://playing.whydontyoustreamwme.com/live/itv1uk_360p/index.m3u8" },
 { "type": "Ven HD",
 "livelink": "https://live-ali2.tv360.vn/manifest/VTV3/playlist_720p.m3u8" },
 { "type": "ENG HD",
