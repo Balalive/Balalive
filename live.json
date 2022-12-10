@@ -2,32 +2,7 @@
  
 
  
-  {"league":"World Cup",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
-"adslink":"https://google.com",
-"date":"10/12/2022",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/6262_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Morocco",
-"ateam":"Portugal",
-"link":
-[ 
-{ "type": "China 1",
- "livelink":"https://standard-pull.qcllh.com/sm/10021_831950_lhd.m3u8?auth_key=1670769226-0-0-fe766f5d9f8fbf6bb15b292545eb671d" },
-{ "type": "China 2",
- "livelink":"https://play1zb.hnyongshun.cn/live/46504509215825264692.m3u8" },
-{ "type": "Ven HD",
-"livelink": "https://live-ali4.tv360.vn/manifest/vtv2/playlist_720p.m3u8" },
-{ "type": "ENG HD",
- "livelink":"https://playing.tunnelcdnsw.net/live/itv1uk_720p/index.m3u8" },
-{ "type": "ENG FHD",
-"livelink": "https://playing.whydontyoustreamwme.com/live/fs1us_720p/index.m3u8" }
 
-      ]
-},
- 
  {"league":"World Cup",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
 "adslink":"https://google.com",
