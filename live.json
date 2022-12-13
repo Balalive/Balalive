@@ -1,6 +1,26 @@
 [
  
+ {"league":"World Cup",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ejCTVn8UM1a77HjsHXe7J4pzCU_-g1amB41YuQfSw71O8A4HSdPPme3yUXS3cxvdljTlLsuokXmqoWnGzqD99ikFdJxyuhwAZ4IG7WnTypXOj1bZkPmahpxyYWW0IaN0mnI-JVjGSgoDkkww3QSFWKUYhfG8JB4BmoIMQprdgrkw-7ZbUpHGPpgb/s1600/ba.jpg",
+"adslink":"https://google.com",
+"date":"14/12/2022",
+"time":"live",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Arsenal",
+"ateam":"Milan",
+"link":
+[ 
+{ "type": "China1 ",
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_778166_lhd.m3u8?auth_key=1671025379-0-0-06dbfcb0d2c01ea50e31e56b0589fb15" },
+{ "type": "China2",
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_862974_lhd.m3u8?auth_key=1671024946-0-0-00f9e14c202c48a6a4b5739e8664566f" },
+{ "type": "Ven HD",
+"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=4290e496488511f6666c64438e107d05&txTime=6398d3cc" }
 
+      ]
+},
  
 
  {"league":"World Cup",
