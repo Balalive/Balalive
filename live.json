@@ -12,16 +12,16 @@
 "ateam":"Morocco",
 "link":
 [ 
+{ "type": "Ven HD",
+ "livelink":"https://live-ali4.tv360.vn/manifest/vtv2/playlist_720p.m3u8" },
 { "type": "China 1",
- "livelink":"https://standard-pull.qcllh.com/sm/10021_428429_lhd.m3u8?auth_key=1671128560-0-0-2045f603ee06dc53808eed2a0bf83427" },
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_428408_lhd.m3u8?auth_key=1671372427-0-0-76adc917d4aa5265f60ff38f558a393a" },
 { "type": "China 2",
- "livelink":"https://standard-pull.qcllh.com/sm/10021_936819_lhd.m3u8?auth_key=1671129325-0-0-2a46816689489364608392a719e2fb21" },
+"livelink": "https://standard-pull.qcllh.com/sm/10021_866196_lhd.m3u8?auth_key=1671367699-0-0-de4e2d9e736f118eac5d4493b8c25cc9" },
 { "type": "China 3",
-"livelink": "https://yytcpull.gdsth.com/live/stream-551899.m3u8?txSecret=94c0f88e7db859e3bab46ef64bc5f8a7&txTime=639b6afa" },
-{ "type": "VEN HD1",
- "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=d661653115b95b89b8c5cb04075169e7" },
-{ "type": "VEN HD2",
-"livelink": "https://live-ali2.tv360.vn/manifest/VTV3/playlist_720p.m3u8" }
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_936822_lhd.m3u8?auth_key=1671372817-0-0-21827f55f8e6c28107af064fcb3e0d4e" },
+{ "type": "China 4",
+"livelink": "https://yytcpull.gdsth.com/live/stream-551899.m3u8?txSecret=c921db2fe7822935c9b6111669e03861&txTime=639f2957" }
 
       ]
 },
