@@ -1,7 +1,7 @@
 [
  
 
- {"league":"World Cup(Final)",
+ {"league":"AFF CUP(2022)",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"18/12/2022",
@@ -14,9 +14,9 @@
 "link":
 [ 
 { "type": "Ven HD1",
- "livelink":"https://live-ali4.tv360.vn/manifest/vtv2/playlist_720p.m3u8" },
-{ "type": "VEN HD2",
-"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=8775681744bfa0389440241706e576ee&txTime=639f7b3d" },
+ "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=95bdaf553164f7737e93a1968042f3ab&txTime=63a1d739" },
+{ "type": "China 1",
+"livelink": "https://standard-pull.qcllh.com/sm/10021_831952_lhd.m3u8?auth_key=1671616177-0-0-a89ed1ebce4bbcdfa1073e2cc3e2cefb" },
 
 { "type": "China 1",
  "livelink":"https://standard-pull.qcllh.com/sm/10021_936819_lhd.m3u8?auth_key=1671460187-0-0-a403645615d19be14ca167a8ba766e11" },
