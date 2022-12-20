@@ -19,7 +19,7 @@
 "livelink": "https://standard-pull.qcllh.com/sm/10021_831952_lhd.m3u8?auth_key=1671616177-0-0-a89ed1ebce4bbcdfa1073e2cc3e2cefb" },
 
 { "type": "China 2",
- "livelink":"https://play1zb.hnyongshun.cn/live/47525773498548830720.m3u8" }
+ "livelink":"https://streaming.playstream.media/storage/videos/a9c9391d-dd16-4cb6-9319-5dd9559fe22d/index.m3u8" }
 
       ]
 },
@@ -29,24 +29,66 @@
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"20/12/2022",
 "time":"7:00 (PM)",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/6332_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/230139_small.png",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/178671_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"Cambodia",
-"ateam":"Philippines",
+"hteam":"Brunei",
+"ateam":"Thailand",
 "link":
 [ 
-{ "type": "Ven HD1",
+{ "type": "Ven HD",
  "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=95bdaf553164f7737e93a1968042f3ab&txTime=63a1d739" },
 { "type": "China 1",
 "livelink": "https://standard-pull.qcllh.com/sm/10021_831952_lhd.m3u8?auth_key=1671616177-0-0-a89ed1ebce4bbcdfa1073e2cc3e2cefb" },
 
-{ "type": "China 1",
- "livelink":"https://standard-pull.qcllh.com/sm/10021_936819_lhd.m3u8?auth_key=1671460187-0-0-a403645615d19be14ca167a8ba766e11" },
 { "type": "China 2",
-"livelink": "https://standard-pull.qcllh.com/sm/10021_428429_lhd.m3u8?auth_key=1671458651-0-0-539fde7b571e2c91aa56cdd322117c1d" },
-{ "type": "Eng SD",
- "livelink":"https://fv1093.huibo.tv/DGI/H2812/chunks.m3u8?wsSecret=bd6e4cd60164f17c525594fe84716e0d&wsTime=1671377535" }
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_936819_lhd.m3u8?auth_key=1671460187-0-0-a403645615d19be14ca167a8ba766e11" }
+
+      ]
+},
+ 
+   {"league":"AFF CUP(2022)",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
+"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
+"date":"21/12/2022",
+"time":"4:30 (PM)",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/5823_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Myanmar",
+"ateam":"Malaysia",
+"link":
+[ 
+{ "type": "Ven HD",
+ "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=95bdaf553164f7737e93a1968042f3ab&txTime=63a1d739" },
+{ "type": "China 1",
+"livelink": "https://standard-pull.qcllh.com/sm/10021_831952_lhd.m3u8?auth_key=1671616177-0-0-a89ed1ebce4bbcdfa1073e2cc3e2cefb" },
+
+{ "type": "China 2",
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_936819_lhd.m3u8?auth_key=1671460187-0-0-a403645615d19be14ca167a8ba766e11" }
+
+      ]
+},
+ 
+   {"league":"AFF CUP(2022)",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
+"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
+"date":"21/12/2022",
+"time":"7:00 (PM)",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/5891_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Laos",
+"ateam":"Vietnam",
+"link":
+[ 
+{ "type": "Ven HD",
+ "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=95bdaf553164f7737e93a1968042f3ab&txTime=63a1d739" },
+{ "type": "China 1",
+"livelink": "https://standard-pull.qcllh.com/sm/10021_831952_lhd.m3u8?auth_key=1671616177-0-0-a89ed1ebce4bbcdfa1073e2cc3e2cefb" },
+
+{ "type": "China 2",
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_936819_lhd.m3u8?auth_key=1671460187-0-0-a403645615d19be14ca167a8ba766e11" }
 
       ]
 }
