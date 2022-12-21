@@ -15,13 +15,13 @@
 "ateam":"Malaysia",
 "link":
 [ 
-{ "type": "Ven HD",
- "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8" },
+{ "type": "Ven SD",
+ "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8" },
 { "type": "China 1",
 "livelink": "https://yypull.gdsth.com/live/yypull.gdsth.com_stream-389767-1671619377219.ts?auth_key=1671640985-0-0-72817becfec9282b06d2370bb191bd4c" },
 
-{ "type": "China 2",
- "livelink":"https://standard-pull.qcllh.com/sm/10021_936819_lhd.m3u8?auth_key=1671460187-0-0-a403645615d19be14ca167a8ba766e11" }
+{ "type": "VEN HD",
+ "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8" }
 
       ]
 },
