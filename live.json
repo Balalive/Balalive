@@ -7,7 +7,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"24/12/2022",
-"time":"live",
+"time":"End",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/5825_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -30,7 +30,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"24/12/2022",
-"time":"7:00 (PM)",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/5823_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/5891_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -39,7 +39,7 @@
 "link":
 [ 
 { "type": "Ven 1",
- "livelink":"https://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8" },
+ "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8" },
 { "type": "Ven 2",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8" },
 
