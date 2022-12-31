@@ -23,31 +23,7 @@
       ]
 },
  
-   {"league":"Premier League",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"31/12/2022",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Wolverhampton",
-"ateam":"Man U",
-"link":
-[ 
-{ "type": "SD",
- "livelink":"https://yypull.gdsth.com/live/stream-823405_ld.m3u8?auth_key=1672509970-0-0-2054f4c69ea6a93e992a8085a3b10375" },
-{ "type": "HD1",
-"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=d132a401ece1b70949a20e76b67b13e3&txTime=63b07ab7" },
 
-{ "type": "HD2",
- "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8" },
-{ "type": "FHD",
-"livelink": "https://waksaakks.azureedge.net/live/usa/playlist.m3u8" }
-
-
-      ]
-},
  
  {"league":"Laliga",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
@@ -76,7 +52,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"31/12/2022",
-"time":"9:30 (PM)",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -84,13 +60,13 @@
 "ateam":"Everton",
 "link":
 [ 
-{ "type": "Ven 1",
- "livelink":"https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=440002d7708640b83ab6a577961c437a&txTime=63ab7d12" },
-{ "type": "Ven 2",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8" },
+{ "type": "SD",
+ "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1672518730-0-0-a8a159e9af75c3108708e0501cd9dc53" },
+{ "type": "HD1",
+"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=3fac7c45858b217b43761ce8fab8b621&txTime=63b09a1f" },
 
-{ "type": "China HD",
- "livelink":"https://yytcpull.gdsth.com/live/stream-551899.m3u8?txSecret=1f8c473d034f5b22f0951d7b4e726835&txTime=63ac9d3c" }
+{ "type": "HD2",
+ "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8" }
 
       ]
 },
@@ -99,7 +75,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"31/12/2022",
-"time":"9:30 (PM)",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -107,13 +83,13 @@
 "ateam":"Leeds",
 "link":
 [ 
-{ "type": "Ven 1",
- "livelink":"https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=440002d7708640b83ab6a577961c437a&txTime=63ab7d12" },
-{ "type": "Ven 2",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8" },
+{ "type": "SD",
+ "livelink":"https://yypull.gdsth.com/live/stream-2412304_ld.m3u8?auth_key=1672518610-0-0-167b08f17601891315b93151db7f42ab" },
+{ "type": "HD1",
+"livelink": "https://sports01.livnvess.com/live/stream-143449.m3u8?txSecret=9d01497b24c2cb2f49bd43be7d3e6bad&txTime=63b09a5b" },
 
-{ "type": "China HD",
- "livelink":"https://yytcpull.gdsth.com/live/stream-551899.m3u8?txSecret=1f8c473d034f5b22f0951d7b4e726835&txTime=63ac9d3c" }
+{ "type": "HD2",
+ "livelink":"https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1672518610-0-0-7b7d4a13e3860443a8788a9b5db31744" }
 
       ]
 },
@@ -122,7 +98,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"31/12/2022",
-"time":"9:30 (PM)",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -130,13 +106,13 @@
 "ateam":"Southampton",
 "link":
 [ 
-{ "type": "Ven 1",
- "livelink":"https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=440002d7708640b83ab6a577961c437a&txTime=63ab7d12" },
-{ "type": "Ven 2",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8" },
+{ "type": "SD",
+ "livelink":"https://yypull.gdsth.com/live/stream-349393_ld.m3u8?auth_key=1672518790-0-0-6de90595e79f6d2cb860ed06b649c6a5" },
+{ "type": "HD1",
+"livelink": "https://sports01.livnvess.com/live/stream-105131.m3u8?txSecret=9072d6a8783ce88f53643ae14a6fe082&txTime=63b099e3" },
 
-{ "type": "China HD",
- "livelink":"https://yytcpull.gdsth.com/live/stream-551899.m3u8?txSecret=1f8c473d034f5b22f0951d7b4e726835&txTime=63ac9d3c" }
+{ "type": "HD2",
+ "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8" }
 
       ]
 },
@@ -145,7 +121,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"31/12/2022",
-"time":"9:30 (PM)",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -153,13 +129,13 @@
 "ateam":"Crystal Palace",
 "link":
 [ 
-{ "type": "Ven 1",
- "livelink":"https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=440002d7708640b83ab6a577961c437a&txTime=63ab7d12" },
-{ "type": "Ven 2",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8" },
+{ "type": "SD",
+ "livelink":"https://yypull.gdsth.com/live/stream-279932_ld.m3u8?auth_key=1672518850-0-0-38b80453595d343ae30e07af7d9195ec" },
+{ "type": "HD",
+"livelink": "https://yypull.gdsth.com/live/stream-279932.m3u8?auth_key=1672518850-0-0-deaec362d632d0cfdd4eb0fcccd76c9d" },
 
-{ "type": "China HD",
- "livelink":"https://yytcpull.gdsth.com/live/stream-551899.m3u8?txSecret=1f8c473d034f5b22f0951d7b4e726835&txTime=63ac9d3c" }
+{ "type": "HD2",
+ "livelink":"https://yypull.gdsth.com/live/stream-279932.m3u8?auth_key=1672518850-0-0-deaec362d632d0cfdd4eb0fcccd76c9d" }
 
       ]
 },
