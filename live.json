@@ -159,6 +159,52 @@
  "livelink":"https://yytcpull.gdsth.com/live/stream-551899.m3u8?txSecret=1f8c473d034f5b22f0951d7b4e726835&txTime=63ac9d3c" }
 
       ]
+},
+ 
+  {"league":"Laliga",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
+"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
+"date":"31/12/2022",
+"time":"9:45 (PM)",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Real Sociedad",
+"ateam":"Osasuna",
+"link":
+[ 
+{ "type": "Ven 1",
+ "livelink":"https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=440002d7708640b83ab6a577961c437a&txTime=63ab7d12" },
+{ "type": "Ven 2",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8" },
+
+{ "type": "China HD",
+ "livelink":"https://yytcpull.gdsth.com/live/stream-551899.m3u8?txSecret=1f8c473d034f5b22f0951d7b4e726835&txTime=63ac9d3c" }
+
+      ]
+},
+ 
+  {"league":"Laliga",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
+"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
+"date":"31/12/2022",
+"time":"9:45 (PM)",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Villarreal",
+"ateam":"Valencia",
+"link":
+[ 
+{ "type": "Ven 1",
+ "livelink":"https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=440002d7708640b83ab6a577961c437a&txTime=63ab7d12" },
+{ "type": "Ven 2",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8" },
+
+{ "type": "China HD",
+ "livelink":"https://yytcpull.gdsth.com/live/stream-551899.m3u8?txSecret=1f8c473d034f5b22f0951d7b4e726835&txTime=63ac9d3c" }
+
+      ]
 }
 
 
