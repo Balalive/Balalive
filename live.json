@@ -23,51 +23,7 @@
       ]
 },
 
-   {"league":"AFF",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"3/1/2023",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/5823_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/5825_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"မလေးရှား",
-"ateam":"စင်ကာပူ",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=8f471fcf75d90df5259c4523f4b02e9a&txTime=63b46efb" },
-{ "type": "FHD",
-"livelink": "http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8" },
-
-{ "type": "SD",
- "livelink":"https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1672769110-0-0-13b1c2635fe9bd205d59a8f949e5c935" }
-
-      ]
-},
-
-   {"league":"AFF",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"3/1/2023",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"ဗီယနာမ်",
-"ateam":"မြန်မာ",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=d2cdfdb146d2fbf2703af8acefd13b57&txTime=63b46ebf" },
-{ "type": "FHD",
-"livelink": "https://yypull.gdsth.com/live/stream-552917.m3u8?auth_key=1672769050-0-0-e99ab30030a46b862a3668dd264b0ad4" },
-
-{ "type": "SD",
- "livelink":"https://yypull.gdsth.com/live/stream-552917_ld.m3u8?auth_key=1672769050-0-0-7a5355f95d8ceac994f00d60eec016d7" }
-
-      ]
-},
+   
 
    {"league":"Premier League",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
