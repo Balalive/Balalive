@@ -50,7 +50,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"8/1/2023",
-"time":"8:30 (PM)",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -59,12 +59,12 @@
 "link":
 [ 
 { "type": "HD",
- "livelink":"" },
+ "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=487c6c9b76a669c2ce9f682e13b7f5d5&txTime=63bb0dfe" },
 { "type": "FHD",
-"livelink": "" },
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8" },
 
 { "type": "SD",
- "livelink":"" }
+ "livelink":"https://yypull.gdsth.com/live/stream-2376781_ld.m3u8?auth_key=1673198232-0-0-60d53234f515acb92058d08ee1c0fb4b" }
 
       ]
 },
@@ -73,7 +73,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"8/1/2023",
-"time":"8:30 (PM)",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -82,12 +82,12 @@
 "link":
 [ 
 { "type": "HD",
- "livelink":"" },
+ "livelink":"https://sports01.livnvess.com/live/stream-181398.m3u8?txSecret=e5a19d85ad628c1c3b1286fd43043bea&txTime=63bb0e3a" },
 { "type": "FHD",
-"livelink": "" },
+"livelink": "https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1673198292-0-0-7be5e39819399521c71ba27e4168db2d" },
 
 { "type": "SD",
- "livelink":"" }
+ "livelink":"https://yypull.gdsth.com/live/stream-2412304_ld.m3u8?auth_key=1673198292-0-0-6d26f9ec9771f31bca08acaa3c376dfb" }
 
       ]
 },
