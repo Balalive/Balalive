@@ -23,28 +23,7 @@
       ]
 },
  
- {"league":"LaLiga",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"8/1/2023",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Almeria",
-"ateam":"Real Sociedad",
-"link":
-[ 
-{ "type": "HD1",
- "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8" },
-{ "type": "2HD",
-"livelink": "https://sports01.livnvess.com/live/stream-115429.m3u8?txSecret=aa2d540e5c6c23c0fc42d4160e9211ea&txTime=63bb0b2e" },
 
-{ "type": "SD",
- "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8" }
-
-      ]
-},
  
   {"league":"Serie A",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
@@ -96,7 +75,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"8/1/2023",
-"time":"9:30 (PM)",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -105,12 +84,12 @@
 "link":
 [ 
 { "type": "HD",
- "livelink":"" },
+ "livelink":"https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1673198292-0-0-574625465149dac733b5e74ef302c56a" },
 { "type": "FHD",
-"livelink": "" },
+"livelink": "https://lb.buy-global.store/live/lb555/bs1-720.m3u8" },
 
 { "type": "SD",
- "livelink":"" }
+ "livelink":"https://yypull.gdsth.com/live/stream-112366_ld.m3u8?auth_key=1673198292-0-0-fdc23e8a7bbfb3e6b5e495bcb74024f1" }
 
       ]
 },
