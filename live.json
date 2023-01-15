@@ -25,28 +25,7 @@
 
 
 
-  {"league":"Premier League",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Jan/15",
-"time":"END",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Tottenham",
-"ateam":"Arsenal",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=76852f1cbbdd8a49f46e9492a7e7fdf0&txTime=63c479b9" },
-{ "type": "FHD",
-"livelink": "http://192.248.160.67:8080/bein_p_1_fhd/index.m3u8" },
 
-{ "type": "SD",
- "livelink":"http://192.248.160.67:8080/bein_p_1_sd/index.m3u8" }
-
-      ]
-},
  
  {"league":"Super Cup Final",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
@@ -64,7 +43,8 @@
  "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8" },
 { "type": "HD2",
 "livelink": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=45e1098689c0a51dda81b29a61196a67&txTime=63c48ed1" },
-
+{ "type": "ENG HD",
+ "livelink":"http://77.247.109.196:8080/play/hls/eyJpdiI6InNXZHZLUHpQdHBBTlZrVVdiaytiZEE9PSIsInZhbHVlIjoiUVFXVzZUeHRESVoxUTloS2wwRkVEN0N0cmVsVWJacjQ0dENveEVoRXdSd1R3UVN2L0N1UEVURnFXZ2lJWmJsMlp1MDZIM204dGlkRUMwK1FoaHBGL3c9PSIsIm1hYyI6IjU1OTU0ODM0ZGVjNjg2OTQwMGYyNGU5ZGUwZjZjMWZiYTJiODczZGZjY2YxZWE4NWRmZjdmYTZjOWZhNGI5MjgiLCJ0YWciOiIifQ==/314e309f-1210-4da9-99d6-d9ec737a8b06.m3u8?lvtoken=eyJpdiI6InlSK2thR0txYW4xT3J2S3FkeUUwRlE9PSIsInZhbHVlIjoiVDI0YXlQWmdxek44SXpDMGdWaHZZUzhEemJuNXNCRkxnYXlFY1BKTy9kSHFPRWRQbXNWQm9lcGFZK3JBWDVvbFp2S1RRdE4rYnBQeDVIVGRJWFE4TGZocFU3OGNIaTRaWmtqT0VGM1cwZ00xYW4ydThjZzVXVWx2MyszUmJlaDhiS2VUZXJVRHYzOUYvK1BQeVN5RXZYWjlXOTg0NDBlZGIxWjNtR2RUQzhRSVZUZjVTVnphSkN0UFozeFdQYWJtcnZsQkhhcUl3R0pQSWNoZzJmc29wdz09IiwibWFjIjoiYTlkZThhZGVkNDIzNDljNjIwMWM3MjdjZDhiZWIxOGI1ZDI0NjY1NTA0MGM3N2QzYjM0ZmZlZWFlNjIzMmJkYyIsInRhZyI6IiJ9&r=5e59d5&rt=b0c0d9d2be61f7ebbcf18ed73831f52c" },
 { "type": "HD3",
  "livelink":"http://192.248.160.67:8080/ssc1_hd/index.m3u8" }
 
