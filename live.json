@@ -35,10 +35,10 @@
 "ateam":"Inter",
 "link":
 [ 
-{ "type": "HD",
+{ "type": "HD1",
  "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8" },
-{ "type": "FHD",
-"livelink": "" },
+{ "type": "HD2",
+"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=5870e8c76c01876f56c0e93ff75014e4&txTime=63c894a9" },
 
 { "type": "SD",
  "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8" }
