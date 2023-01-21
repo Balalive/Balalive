@@ -193,7 +193,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"jan/21/2023",
-"time":"11:30 (PM)",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -202,12 +202,12 @@
 "link":
 [ 
 { "type": "HD",
- "livelink":"" },
+ "livelink":"https://pullalilive.livnvess.com/live/stream-100684.m3u8?auth_key=1674340322-0-0-5956653aca150e4fea1e2627612e8c34" },
 { "type": "FHD",
-"livelink": "" },
+"livelink": "https://yypull.gdsth.com/live/stream-349393.m3u8?auth_key=1674340595-0-0-0e6aea4a9a14603172793b411c70733a" },
 
 { "type": "SD",
- "livelink":"" }
+ "livelink":"https://yypull.gdsth.com/live/stream-349393_ld.m3u8?auth_key=1674340595-0-0-159d5d3a528e24ea0e5ad5b2fab53e8c" }
 
       ]
 }
