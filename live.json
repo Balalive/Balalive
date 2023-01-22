@@ -100,7 +100,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"Tomorrow",
-"time":"12:00 AM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -109,12 +109,12 @@
 "link":
 [ 
 { "type": "HD",
- "livelink":"" },
+ "livelink":"https://yypull.gdsth.com/live/stream-284564.m3u8?auth_key=1674429935-0-0-c3ed1ee44c2548221f3805989aae771c" },
 { "type": "FHD",
-"livelink": "" },
+"livelink": "https://d34wjwsgf5f9ud.cloudfront.net/out/v1/0f94ba361a034ebcb56c80f56e621cb2/index_1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIzIDM6Mzc6NTY" },
 
 { "type": "SD",
- "livelink":"" }
+ "livelink":"https://yypull.gdsth.com/live/stream-284564_ld.m3u8?auth_key=1674429935-0-0-7ce433022b1741f0931e09d41c201601" }
 
       ]
 },
