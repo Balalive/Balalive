@@ -94,6 +94,75 @@
  "livelink":"https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1674427595-0-0-3f0608caf43a2e2b3d5e5e374610f615" }
 
       ]
+},
+ 
+ {"league":"LaLiga",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
+"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
+"date":"Tomorrow",
+"time":"12:00 AM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Barcelona",
+"ateam":"Getafe",
+"link":
+[ 
+{ "type": "HD",
+ "livelink":"" },
+{ "type": "FHD",
+"livelink": "" },
+
+{ "type": "SD",
+ "livelink":"" }
+
+      ]
+},
+ 
+ {"league":"Serie A",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
+"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
+"date":"Tomorrow",
+"time":"2:15 AM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Juventus",
+"ateam":"Atalanta",
+"link":
+[ 
+{ "type": "HD",
+ "livelink":"" },
+{ "type": "FHD",
+"livelink": "" },
+
+{ "type": "SD",
+ "livelink":"" }
+
+      ]
+},
+ 
+ {"league":"LaLiga",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
+"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
+"date":"Tomorrow",
+"time":"2:30 AM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Athletic Club",
+"ateam":"Real Madrid",
+"link":
+[ 
+{ "type": "HD",
+ "livelink":"" },
+{ "type": "FHD",
+"livelink": "" },
+
+{ "type": "SD",
+ "livelink":"" }
+
+      ]
 }
  
  
