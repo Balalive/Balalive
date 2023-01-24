@@ -131,8 +131,8 @@
 [ 
 { "type": "HD",
  "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=d71ebbe31ef4c2278c30a7e198383bc2&txTime=63d0726e" },
-{ "type": "FHD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may8/chunklist.m3u8" },
+{ "type": "စမ်းသပ်",
+"livelink": "https://live.vbfast.xyz/3c2e294f18914645713bc0d9245da091/1674632852741/live-47/live-47@720p.m3u8" },
 
 { "type": "SD",
  "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=192f6c0474b148487fc99f8eb6c50813&txTime=63d0726e" }
