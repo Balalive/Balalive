@@ -106,10 +106,10 @@
 "ateam":"Newcastle",
 "link":
 [ 
-{ "type": "HD",
- "livelink":"https://live.vbfast.xyz/db6fd4d87c02934db098ff75a35818ee/1674632509379/y2f69yo/y2f69yo@720p.m3u8" },
-{ "type": "FHD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8" },
+{ "type": "China HD",
+ "livelink":"https://standard-pull.qcllh.com/sm/10021_831938_lhd.m3u8?auth_key=1674675766-0-0-6610f90617136de09b8e450dc0d39f59" },
+{ "type": "China HD",
+"livelink": "https://standard-pull.qcllh.com/sm/10021_968170_lhd.m3u8?auth_key=1674675500-0-0-3e313969360ff433ce24894329bf6acf" },
 
 { "type": "SD",
  "livelink":"https://yypull.gdsth.com/live/stream-3045619_ld.m3u8?auth_key=1674605555-0-0-69fc52bd9e5d4fd095f0dd7e7594c325" }
