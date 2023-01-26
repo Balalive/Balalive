@@ -73,7 +73,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"Jan/ 27",
-"time":"2:30 (AM)",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -82,9 +82,9 @@
 "link":
 [ 
 { "type": "HD",
- "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-206851_lhd.m3u8?auth_key=1674775927-0-0-78811a5f0c6437bd10d66ca4e9d2a847&us" },
+ "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8" },
 { "type": "FHD",
-"livelink": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1674776075-0-0-859e8f00fc6b43f29916dffad8fc1461" },
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8" },
 
 { "type": "SD",
  "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1674776075-0-0-3e6f670379adf6dbdf67d81ad8270be1" }
