@@ -92,28 +92,7 @@
       ]
 },
  
- {"league":"Bundesliga",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Today",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"SC Freiburg",
-"ateam":"FC Augsburg",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"https://yypull.gdsth.com/live/stream-466758.m3u8?auth_key=1674937236-0-0-9f7816d3e592399fb4db2a8d2f3c8ccf" },
-{ "type": "FHD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-160430_lhd.m3u8?sub_m3u8=true&edge_slice=tr" },
 
-{ "type": "SD",
- "livelink":"https://obevcimanyd179314182.thapcam.link/live/may11/chunklist.m3u8" }
-
-      ]
-},
  
  {"league":"Laliga",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
@@ -159,56 +138,8 @@
  "livelink":"https://1123139281.cdn.khmer-hd.com/may61/chunks.m3u8" }
 
       ]
-},
- 
- {"league":"Bundesliga",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Today",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Mainz 05",
-"ateam":"VfL Bochum",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"https://yypull.gdsth.com/live/stream-552917.m3u8?auth_key=1674937296-0-0-59224d14b3f1448448c98f3f07118aec" },
-{ "type": "FHD",
-"livelink": "" },
-
-{ "type": "SD",
- "livelink":"https://1123139281.cdn.khmer-hd.com/may6/chunks.m3u8" }
-
-      ]
-},
- 
-  {"league":"Bundesliga",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Today",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Werder Bremen",
-"ateam":"Wolfsburg",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-363344_lhd.m3u8?sub_m3u8=true&user_session_id=5140f8672796718576dcec68164c0770" },
-{ "type": "FHD",
-"livelink": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=b12a07d50a6539b3aabde3563c238aaa&txTime=63d580e4" },
-
-{ "type": "SD",
- "livelink":"https://1123139281.cdn.khmer-hd.com/may71/chunks.m3u8" }
-
-      ]
 }
  
-
-
 
  
 
