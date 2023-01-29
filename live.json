@@ -110,8 +110,8 @@
 "ateam":"Fiorentina",
 "link":
 [ 
-{ "type": "link 1",
- "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?auth_key=1675032428-0-0-c2039f24a2476a7e185e7e4e3cafc07a&su" },
+{ "type": "HD",
+ "livelink":"https://179314182.global.cdnfastest.com/live/may8/chunklist.m3u8" },
 { "type": "Link 2",
 "livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?auth_key=1675032428-0-0-e8bd7d07a92f3b59a8a882dfa1d22d37&su" },
 
