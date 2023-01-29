@@ -44,6 +44,98 @@
  "livelink":"https://179314182.global.cdnfastest.com/live/may8/chunklist.m3u8" }
 
       ]
+},
+ 
+ {"league":"Laliga",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
+"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
+"date":"Jan 29",
+"time":"7:30 PM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Real Valladolid",
+"ateam":"Valencia",
+"link":
+[ 
+{ "type": "HD",
+ "livelink":"" },
+{ "type": "FHD",
+"livelink": "" },
+
+{ "type": "SD",
+ "livelink":"" }
+
+      ]
+},
+ 
+ {"league":"FA CUP",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
+"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
+"date":"Jan 29",
+"time":"8:00 PM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Brighton",
+"ateam":"Liverpool",
+"link":
+[ 
+{ "type": "HD",
+ "livelink":"" },
+{ "type": "FHD",
+"livelink": "" },
+
+{ "type": "SD",
+ "livelink":"" }
+
+      ]
+},
+ 
+ {"league":"Serie A",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
+"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
+"date":"Jan 29",
+"time":"8:30 PM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Juventus",
+"ateam":"Monza",
+"link":
+[ 
+{ "type": "HD",
+ "livelink":"" },
+{ "type": "FHD",
+"livelink": "" },
+
+{ "type": "SD",
+ "livelink":"" }
+
+      ]
+},
+ 
+ {"league":"Bundesliga",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
+"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
+"date":"Jan 29",
+"time":"9:00 PM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Schalke 04",
+"ateam":"FC Köln",
+"link":
+[ 
+{ "type": "HD",
+ "livelink":"" },
+{ "type": "FHD",
+"livelink": "" },
+
+{ "type": "SD",
+ "livelink":"" }
+
+      ]
 }
  
   
