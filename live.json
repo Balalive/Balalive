@@ -27,74 +27,7 @@
  
 
  
- {"league":"FA CUP",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Jan 29",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Brighton",
-"ateam":"Liverpool",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=6919055d9dc5c0a8229bc4f2709a5be7&txTime=63d6c490" },
-{ "type": "FHD",
-"livelink": "https://179314182.global.cdnfastest.com/live/may9/chunklist.m3u8" },
 
-{ "type": "SD",
- "livelink":"https://wwpyaosopp.azureedge.net/live/s1/chunks.m3u8" }
-
-      ]
-},
- 
- {"league":"Serie A",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Jan 29",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Juventus",
-"ateam":"Monza",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"https://179314182.global.cdnfastest.com/live/may8/chunklist.m3u8" },
-{ "type": "FHD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-113906_lhd.m3u8?auth_key=1675021748-0-0-ca53d5576a6bceefb7351f7d2d8d8914&su" },
-
-{ "type": "SD",
- "livelink":"https://179314182.global.cdnfastest.com/live/may8/chunklist.m3u8" }
-
-      ]
-},
- 
- {"league":"Bundesliga",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Jan 29",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Schalke 04",
-"ateam":"FC Köln",
-"link":
-[ 
-{ "type": "Link 1",
- "livelink":"https://179314182.global.cdnfastest.com/live/may11/chunklist.m3u8" },
-{ "type": "Link 2",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1675023248-0-0-19d92" },
-
-{ "type": "Link 3",
- "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1675023396-0-0-74f9ac0f4510fb57bd267d5b2dbcc79d&edge" }
-
-      ]
-},
  
  {"league":"Laliga",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
