@@ -23,28 +23,6 @@
       ]
 },
  
- {"league":"Premier League",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Today",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Aston Villa",
-"ateam":"Arsenal",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8" },
-{ "type": "FHD",
-"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=769db18982a5818a5014f09afd022985&txTime=63f1140e" },
-
-{ "type": "SD",
- "livelink":"http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768" }
-
-      ]
-},
  
  {"league":"LaLiga",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
@@ -92,57 +70,15 @@
       ]
 },
  
- {"league":"Premier League",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Today",
-"time":"9:30 PM",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Brentford",
-"ateam":"Crystal Palace",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"" },
-{ "type": "FHD",
-"livelink": "" },
 
-{ "type": "SD",
- "livelink":"" }
+ 
 
-      ]
-},
  
  {"league":"Premier League",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"Today",
-"time":"9:30 PM",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Brighton",
-"ateam":"Fulham",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"" },
-{ "type": "FHD",
-"livelink": "" },
-
-{ "type": "SD",
- "livelink":"" }
-
-      ]
-},
- 
- {"league":"Premier League",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Today",
-"time":"9:30 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -151,44 +87,23 @@
 "link":
 [ 
 { "type": "HD",
- "livelink":"" },
+ "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1676752059-0-0-97e9a287c4a7cca2966830810248aafd&user_session_id=66b4f3e3702446a55f1c353665b171c7" },
 { "type": "FHD",
-"livelink": "" },
+"livelink": "https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=fb994ebfc0419cf1b40de6a56541e0bf&txTime=63f1333a" },
 
 { "type": "SD",
- "livelink":"" }
+ "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1676752059-0-0-5205dfdef8241aba586460abf69048b5&user_session_id=4c06ac64b3ab9bb734749139fe181d7a" }
 
       ]
 },
+ 
+ 
  
  {"league":"Premier League",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"Today",
-"time":"9:30 PM",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Everton",
-"ateam":"Leeds",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"" },
-{ "type": "FHD",
-"livelink": "" },
-
-{ "type": "SD",
- "livelink":"" }
-
-      ]
-},
- 
- {"league":"Premier League",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Today",
-"time":"9:30 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -197,38 +112,17 @@
 "link":
 [ 
 { "type": "HD",
- "livelink":"" },
+ "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1676751939-0-0-ad147f19d9f1aa894c4f6a4e926a2bf4&user_session_id=40cf4affb93cbee1a699c77444aba5eb" },
 { "type": "FHD",
-"livelink": "" },
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-100684_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676753054-0-0-b80c5d11e07518cc4dce92f7afb10639&user_session_id=ffbca0acbe00f1a5122bf83d9ff6accd" },
 
 { "type": "SD",
- "livelink":"" }
+ "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-100684_lsd.m3u8?sub_m3u8=true&user_session_id=65f24ade8fe7de6b5c8985719cd754be&auth_key=1676753054-0-0-7cad4ce4f81f0eeb93c2df8294012772&edge_slice=true" }
 
       ]
 },
  
- {"league":"Premier League",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Today",
-"time":"9:30 PM",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Wolverhampton",
-"ateam":"Bournemouth",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"" },
-{ "type": "FHD",
-"livelink": "" },
-
-{ "type": "SD",
- "livelink":"" }
-
-      ]
-},
+ 
  
  {"league":"LaLiga",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
