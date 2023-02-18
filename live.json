@@ -120,81 +120,11 @@
  "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-100684_lsd.m3u8?sub_m3u8=true&user_session_id=65f24ade8fe7de6b5c8985719cd754be&auth_key=1676753054-0-0-7cad4ce4f81f0eeb93c2df8294012772&edge_slice=true" }
 
       ]
-},
- 
- 
- 
- {"league":"LaLiga",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Today",
-"time":"9:45 PM",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Real Betis",
-"ateam":"Real Valladolid",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"" },
-{ "type": "FHD",
-"livelink": "" },
-
-{ "type": "SD",
- "livelink":"" }
-
-      ]
-},
- 
- {"league":"Ligue 1",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Today",
-"time":"10:30 PM",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Nice",
-"ateam":"Reims",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"" },
-{ "type": "FHD",
-"livelink": "" },
-
-{ "type": "SD",
- "livelink":"" }
-
-      ]
-},
- 
- {"league":"Serie A",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Today",
-"time":"11:30 PM",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Monza",
-"ateam":"Milan",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"" },
-{ "type": "FHD",
-"livelink": "" },
-
-{ "type": "SD",
- "livelink":"" }
-
-      ]
 }
-
-
-
+ 
+ 
+ 
+ 
 
  
  
