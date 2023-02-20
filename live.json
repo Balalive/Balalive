@@ -21,7 +21,7 @@
  "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" }
 
       ]
-},
+}
  
  
 
@@ -29,56 +29,7 @@
      
  
  
-{"league":"Bundesliga",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Today",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Dortmund",
-"ateam":"Hertha BSC",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676844794-0-0-e52fe" },
-{ "type": "FHD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676844794-0-0-f4249" },
 
-{ "type": "SD",
- "livelink":"" }
-
-      ]
-},
- 
- 
-{"league":"Premier League",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Today",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Tottenham",
-"ateam":"West Ham United",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?user_session_id=9f989880bc720f1cd2e4bd8c7db122ca&edge_slice=tr" },
-{ "type": "FHD",
-"livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=5da2122ffc4fed63f86504b300f05bb7&txTime=63f29ebe" },
-
-{ "type": "SD",
- "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?user_session_id=9f989880bc720f1cd2e4bd8c7db122ca&edge_slice=tr" }
-
-      ]
-}
- 
-
- 
- 
  
  
   
