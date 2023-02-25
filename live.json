@@ -21,105 +21,11 @@
  "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" }
 
       ]
-},
- 
-
- 
- {"league":"Premier League",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Tomorrow",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Bournemouth",
-"ateam":"Manchester City",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"https://1123139281.cdn.khmer-hd.com/live/chunks.m3u8" },
-{ "type": "FHD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112310_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1677366315-0-0-b83b8" },
-
-{ "type": "SD",
- "livelink":"https://1123139281.cdn.khmer-hd.com/live/chunks.m3u8" }
-
-      ]
-},
- 
- {"league":"LaLiga",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Tomorrow",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Real Madrid",
-"ateam":"Atletico Madrid",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8" },
-{ "type": "FHD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8" },
-
-{ "type": "SD",
- "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8" }
-
-      ]
-},
- 
- {"league":"Premier League",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Tomorrow",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Crystal Palace",
-"ateam":"Liverpool",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8" },
-{ "type": "FHD",
-"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=758d25f25f9d1b981acb15ab431cb167&txTime=63faae6b" },
-
-{ "type": "SD",
- "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8" }
-
-      ]
-},
- 
- {"league":"LaLiga",
-"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
-"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"Tomorrow",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-"teams":"Leicester City Vs Manchester United",
-"hteam":"Valencia",
-"ateam":"Real Sociedad",
-"link":
-[ 
-{ "type": "HD",
- "livelink":"https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8" },
-{ "type": "FHD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-118206_lhd.m3u8?user_session_id=a5ccee8e103732b73095ab31ad1e267e&edge_slice" },
-
-{ "type": "SD",
- "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?edge_slice=true&auth_key=1677373196-0-0-d2d836a22b5003dca28616" }
-
-      ]
 }
  
 
  
- 
+
  
  
 
