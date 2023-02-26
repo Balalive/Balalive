@@ -96,7 +96,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"Today",
-"time":"8:30 PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -105,9 +105,9 @@
 "link":
 [ 
 { "type": "HD",
- "livelink":"" },
+ "livelink":"https://obevcimanyd179314182.thapcam.link/live/may8/chunklist.m3u8" },
 { "type": "FHD",
-"livelink": "" },
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may8/chunklist.m3u8" },
 
 { "type": "SD",
  "livelink":"" }
