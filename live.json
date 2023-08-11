@@ -40,8 +40,8 @@
 { "type": "China1",
 "livelink": "https://standard-pull.xaworks.net/sm/10021_920582_lhd.m3u8?auth_key=1691860296-0-0-ab5d4a436fc056f95163276d006af260" },
 
-{ "type": "No",
- "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" }
+{ "type": "China 2",
+ "livelink":"https://pull.juqihuo.com/live/stream-2376781_lhd.flv?auth_key=1691780647-0-0-9f5744434f9fa9c3a6e77de6aa95560f" }
 
       ]
 },
