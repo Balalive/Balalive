@@ -95,7 +95,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"12/8/2023",
-"time":"8:30 AM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -103,12 +103,12 @@
 "ateam":"West Ham",
 "link":
 [ 
-{ "type": "H",
- "livelink":"https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8" },
-{ "type": "FHD",
+{ "type": "FH",
+ "livelink":"https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8" },
+{ "type": "No",
 "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8" },
 
-{ "type": "SD",
+{ "type": "No",
  "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" }
 
       ]
@@ -117,7 +117,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"12/8/2023",
-"time":"8:30 AM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8346_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -125,12 +125,12 @@
 "ateam":"Luton Town",
 "link":
 [ 
-{ "type": "H",
- "livelink":"https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8" },
-{ "type": "FHD",
+{ "type": FH",
+ "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8" },
+{ "type": "No",
 "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8" },
 
-{ "type": "SD",
+{ "type": "No",
  "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" }
 
       ]
@@ -139,7 +139,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"12/8/2023",
-"time":"8:30 AM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -147,12 +147,12 @@
 "ateam":"Fulham",
 "link":
 [ 
-{ "type": "H",
- "livelink":"https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8" },
-{ "type": "FHD",
+{ "type": "FH",
+ "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8" },
+{ "type": "No",
 "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8" },
 
-{ "type": "SD",
+{ "type": "No",
  "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" }
 
       ]
@@ -162,7 +162,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"12/8/2023",
-"time":"8:30 AM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -170,12 +170,12 @@
 "ateam":"Crystal Palace",
 "link":
 [ 
-{ "type": "H",
- "livelink":"https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8" },
-{ "type": "FHD",
+{ "type": "FH",
+ "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8" },
+{ "type": "No",
 "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8" },
 
-{ "type": "SD",
+{ "type": "No",
  "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8" }
 
       ]
