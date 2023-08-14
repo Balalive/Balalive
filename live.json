@@ -3,19 +3,19 @@
    {"league":"Premier League",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
-"date":"13/8/2023",
+"date":"15/8/2023",
 "time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"ဘရမ်းဖို့",
-"ateam":"စပါး",
+"hteam":"မန်ယူ",
+"ateam":"ဝုဖ်",
 "link":
 [ 
-{ "type": "Link 1",
- "livelink":"https://s6.kora-360.com/live/ch2pe.m3u8" },
-{ "type": "Link 2",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911963_lhd.m3u8?sub_m3u8=true&user_session_id=0923c59e23b022f68e299306c855fca0&auth_key=1691783550-0-0-0e9f6646b8a4965727fdde4f89d8836c&edge_slice=true" },
+{ "type": "ဗီယနာမ် ၁",
+ "livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=e0fe04e7f6292206519fccbf3d66a822&txTime=64dac816" },
+{ "type": "ဗီယနာမ် ၂",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8" },
 
 { "type": "Link 3",
  "livelink":"https://vsd70.mycdn.me/hls/5164344412919.m3u8/sig/UE9eMH6gaYc/expires/1691866511594/srcIp/202.191.103.114/urls/45.136.20.64/clientType/36/srcAg/CHROME_ANDROID/mid/6922285762551/5164344412919_high/index.m3u8?p" }
