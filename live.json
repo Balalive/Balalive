@@ -5,7 +5,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"Today",
-"time":"live",
+"time":"ပွဲပြီး",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -29,7 +29,7 @@
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"Today",
-"time":"၁၀-၀၀",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
 "teams":"Leicester City Vs Manchester United",
@@ -38,12 +38,12 @@
 "link":
 [ 
 { "type": "ဗီယနာမ် ",
- "livelink":"https://pull.niues.live/live/stream-9912040_lhd.m3u8?auth_key=1694875302-0-0-38aed2558fbb6f04f1b09544a85039c7" },
+ "livelink":"https://pull.niues.live/live/stream-9912040_lhd.m3u8?auth_key=1694967282-0-0-dc1c5b646727d7638674c62df0e59ae5" },
 { "type": "ဗီယနာမ် ၂",
-"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8" },
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8" },
 
 { "type": "Link 3",
- "livelink":"https://pull.niues.live/live/stream-9912040_lhd.m3u8?auth_key=1694875662-0-0-84f668c6934746820bc93ff477fc54d0" }
+ "livelink":"https://pull.niues.live/live/stream-9912053_lhd.m3u8?auth_key=1694967402-0-0-810a57961cc4f537a2612913039fb30f" }
 
       ]
    
