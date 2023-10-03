@@ -1,55 +1,173 @@
 [
 
   
-  {"league":"ပရီးမီးယားလိဂ်",
+  {"league":"ချန်ပီယံလိဂ်",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"Today",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+"time":"၁ခွဲ",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"မန်ယူ",
-"ateam":"ပဲလေ့",
+"hteam":"Union Berlin",
+"ateam":"Braga",
 "link":
 [ 
 { "type": "ဗီယနာမ် ",
- "livelink":"https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1696084901-0-0-f4b853cc0770cec0e23eb52106791808" },
+ "livelink":"" },
 { "type": "ဗီယနာမ် ၂",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8" },
+"livelink": "" },
 
 { "type": "Link 3",
- "livelink":"https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1696085141-0-0-47c940e413ca20dea5e4fd9824aa7e47" }
+ "livelink":"" }
 
       ]
    
    },
 
-   {"league":"ပရီးမီးယားလိဂ်",
+   {"league":"ချန်ပီယံလိဂ်",
 "adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
 "adslink":"https://www.facebook.com/profile.php?id=100087418342562",
 "date":"Today",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+"time":"၁ခွဲ",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10013_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
 "teams":"Leicester City Vs Manchester United",
-"hteam":"ဝုဖ်",
-"ateam":"မန်စီးတီး",
+"hteam":"Salzburg",
+"ateam":"Real Sociedad",
 "link":
 [ 
 { "type": "ဗီယနာမ် ",
- "livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=b44c048483628dde8fdcac1f8f8112b6&txTime=65187b21" },
+ "livelink":"" },
 { "type": "ဗီယနာမ် ၂",
-"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8" },
+"livelink": "" },
 
 { "type": "Link 3",
- "livelink":"https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=371b58ec8b9737210d30db3850bd714a&txTime=65187b5d" }
+ "livelink":"" }
+
+      ]
+   
+   },
+
+  {"league":"ချန်ပီယံလိဂ်",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
+"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
+"date":"Today",
+"time":"၁ခွဲ",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8637_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Manchester United",
+"ateam":"Galatasaray",
+"link":
+[ 
+{ "type": "ဗီယနာမ် ",
+ "livelink":"" },
+{ "type": "ဗီယနာမ် ၂",
+"livelink": "" },
+
+{ "type": "Link 3",
+ "livelink":"" }
+
+      ]
+   
+   },
+
+  {"league":"ချန်ပီယံလိဂ်",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
+"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
+"date":"Today",
+"time":"၁ခွဲ",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8391_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"FC København",
+"ateam":"Bayern",
+"link":
+[ 
+{ "type": "ဗီယနာမ် ",
+ "livelink":"" },
+{ "type": "ဗီယနာမ် ၂",
+"livelink": "" },
+
+{ "type": "Link 3",
+ "livelink":"" }
+
+      ]
+   
+   },
+
+  {"league":"ချန်ပီယံလိဂ်",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
+"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
+"date":"Today",
+"time":"၁ခွဲ",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Lens",
+"ateam":"Arsenal",
+"link":
+[ 
+{ "type": "ဗီယနာမ် ",
+ "livelink":"" },
+{ "type": "ဗီယနာမ် ၂",
+"livelink": "" },
+
+{ "type": "Link 3",
+ "livelink":"" }
+
+      ]
+   
+   },
+
+  {"league":"ချန်ပီယံလိဂ်",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
+"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
+"date":"Today",
+"time":"၁ခွဲ",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8640_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"PSV Eindhoven",
+"ateam":"Sevilla",
+"link":
+[ 
+{ "type": "ဗီယနာမ် ",
+ "livelink":"" },
+{ "type": "ဗီယနာမ် ၂",
+"livelink": "" },
+
+{ "type": "Link 3",
+ "livelink":"" }
+
+      ]
+   
+   },
+
+  {"league":"ချန်ပီယံလိဂ်",
+"adsimg":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89ROwxJcwK3uTaPR54DODat1Ad2ugsHBYzL-qQfais2Yct3JbZkqLthDc0onFceaKtz0ttW1xlN9mER5ovBqCV0EnOGee-6VExDJ5Kq4008hbpOfkCN-AqnblwpUc0EfCJVlK-LZOXGXP_TwyGZWgUZku6Cky4ram5ncMT-Hnt1hW-b-XRPNlhOTs/s1600/htar.jpg",
+"adslink":"https://www.facebook.com/profile.php?id=100087418342562",
+"date":"Today",
+"time":"၁ခွဲ",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+"teams":"Leicester City Vs Manchester United",
+"hteam":"Napoli",
+"ateam":"Real Madrid",
+"link":
+[ 
+{ "type": "ဗီယနာမ် ",
+ "livelink":"" },
+{ "type": "ဗီယနာမ် ၂",
+"livelink": "" },
+
+{ "type": "Link 3",
+ "livelink":"" }
 
       ]
    
    }
-
-   
 
    
 
